@@ -32,7 +32,11 @@ The 2009 Rams currently have 1 home game and 15 away games.
 
 These teams are missing some home games:
 
-    select season, home_team, count(*) as home_games from Game where season not in (1982,1987) group by season, home_team having home_games < 8;
+    select season, home_team, count(*) as home_games 
+    from Game 
+    where season not in (1982,1987) 
+    group by season, home_team 
+    having home_games < 8;
   
     1978|Cowboys|7
     1979|Broncos|7
