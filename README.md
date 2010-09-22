@@ -26,18 +26,11 @@ This column will hold the date and time of the kickoff in [Eastern Time](http://
 
 ## Disclaimer
 
-I am merging multiple datasets and working through the combined data set to ensure it is accurate and I have already found and corrected some errors.  Once I have cross referenced with other sources I shall remove this warning.
+I am merging multiple datasets and working through the combined data set to ensure it is accurate. I have already found and corrected some errors, but I am sure that others remain.  Once I have cross referenced with other sources I shall remove this warning.
 
-The 2009 Rams currently have 1 home game and 15 away games.
 
 These teams are missing some home games:
 
-    select season, home_team, count(*) as home_games 
-    from Game 
-    where season not in (1982,1987) 
-    group by season, home_team 
-    having home_games < 8;
-  
     1978|Cowboys|7
     1979|Broncos|7
     1980|Dolphins|7
@@ -76,15 +69,10 @@ These teams are missing some home games:
     2001|Cowboys|7
     2005|Saints|7
     2008|Saints|7
-    2009|Bears|7
-    2009|Bills|6
-    2009|Browns|5
-    2009|Buccaneers|3
-    2009|Chiefs|4
-    2009|Dolphins|7
-    2009|Jaguars|7
-    2009|Lions|2
-    2009|Raiders|5
-    2009|Rams|1
-    2009|Redskins|4
-    2009|Seahawks|5
+    
+    sqlite>     select season, home_team, count(*) as home_games 
+       ...>     from Game 
+       ...>     where season not in (1982,1987) and season>=1978
+       ...>     group by season, home_team 
+       ...>     having home_games < 8;
+    
