@@ -59,6 +59,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1982,13,1982-12-05T00:00:00+00:00,Colts,17,20,Bengals
 1982,13,1982-12-05T00:00:00+00:00,Dolphins,22,14,Vikings
 1982,13,1982-12-05T00:00:00+00:00,Eagles,20,23,Cardinals
+1982,13,1982-12-05T00:00:00+00:00,Giants,17,14,Oilers
 1982,13,1982-12-05T00:00:00+00:00,Packers,33,21,Bills
 1982,13,1982-12-05T00:00:00+00:00,Raiders,28,23,Seahawks
 1982,13,1982-12-05T00:00:00+00:00,Rams,24,30,49ers
@@ -67,7 +68,6 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1982,13,1982-12-05T00:00:00+00:00,Steelers,35,14,Chiefs
 1982,13,1982-12-06T00:00:00+00:00,Lions,13,28,Jets
 1982,13,1982-12-11T00:00:00+00:00,49ers,37,41,Chargers
-1982,13,1982-12-11T00:00:00+00:00,Giants,23,7,Eagles
 1982,14,1982-12-12T00:00:00+00:00,Bengals,23,10,Browns
 1982,14,1982-12-12T00:00:00+00:00,Bills,13,0,Steelers
 1982,14,1982-12-12T00:00:00+00:00,Cardinals,7,12,Redskins
