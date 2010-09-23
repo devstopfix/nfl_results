@@ -93,7 +93,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1997,7,1997-10-12T00:00:00+00:00,Steelers,24,22,Colts
 1997,7,1997-10-12T00:00:00+00:00,Vikings,21,14,Panthers
 1997,7,1997-10-13T00:00:00+00:00,Redskins,21,16,Cowboys
-1997,7,1997-10-16T00:00:00+00:00,Chiefs,31,3,Chargers
+1997,8,1997-10-16T00:00:00+00:00,Chiefs,31,3,Chargers
 1997,8,1997-10-19T00:00:00+00:00,Bengals,10,26,Steelers
 1997,8,1997-10-19T00:00:00+00:00,Cowboys,26,22,Jaguars
 1997,8,1997-10-19T00:00:00+00:00,Eagles,13,10,Cardinals
@@ -179,7 +179,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1997,13,1997-11-23T00:00:00+00:00,Redskins,7,7,Giants
 1997,13,1997-11-23T00:00:00+00:00,Seahawks,14,19,Chiefs
 1997,13,1997-11-24T00:00:00+00:00,Broncos,31,3,Raiders
-1997,13,1997-11-27T00:00:00+00:00,Cowboys,14,27,Oilers
+1997,14,1997-11-27T00:00:00+00:00,Cowboys,14,27,Oilers
+1997,14,1997-11-27T00:00:00+00:00,Lions,55,20,Bears
 1997,14,1997-11-30T00:00:00+00:00,Bills,20,10,Jets
 1997,14,1997-11-30T00:00:00+00:00,Cardinals,20,26,Steelers
 1997,14,1997-11-30T00:00:00+00:00,Chargers,28,38,Broncos
@@ -193,7 +194,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1997,14,1997-11-30T00:00:00+00:00,Redskins,20,23,Rams
 1997,14,1997-11-30T00:00:00+00:00,Seahawks,17,24,Falcons
 1997,14,1997-12-01T00:00:00+00:00,Vikings,11,27,Packers
-1997,14,1997-12-04T00:00:00+00:00,Bengals,41,14,Oilers
+1997,15,1997-12-04T00:00:00+00:00,Bengals,41,14,Oilers
 1997,15,1997-12-07T00:00:00+00:00,49ers,28,17,Vikings
 1997,15,1997-12-07T00:00:00+00:00,Bears,20,3,Bills
 1997,15,1997-12-07T00:00:00+00:00,Buccaneers,6,17,Packers
@@ -208,8 +209,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1997,15,1997-12-07T00:00:00+00:00,Saints,27,34,Rams
 1997,15,1997-12-07T00:00:00+00:00,Steelers,35,24,Broncos
 1997,15,1997-12-08T00:00:00+00:00,Cowboys,13,23,Panthers
-1997,15,1997-12-13T00:00:00+00:00,Giants,30,10,Redskins
-1997,15,1997-12-13T00:00:00+00:00,Patriots,21,24,Steelers
+1997,16,1997-12-13T00:00:00+00:00,Giants,30,10,Redskins
+1997,16,1997-12-13T00:00:00+00:00,Patriots,21,24,Steelers
 1997,16,1997-12-14T00:00:00+00:00,Bengals,31,24,Cowboys
 1997,16,1997-12-14T00:00:00+00:00,Bills,14,20,Jaguars
 1997,16,1997-12-14T00:00:00+00:00,Chargers,7,29,Chiefs
@@ -223,7 +224,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1997,16,1997-12-14T00:00:00+00:00,Saints,27,10,Cardinals
 1997,16,1997-12-14T00:00:00+00:00,Vikings,13,14,Lions
 1997,16,1997-12-15T00:00:00+00:00,49ers,34,17,Broncos
-1997,16,1997-12-20T00:00:00+00:00,Packers,31,21,Bills
+1997,17,1997-12-20T00:00:00+00:00,Packers,31,21,Bills
+1997,17,1997-12-20T00:00:00+00:00,Panthers,18,30,Rams
 1997,17,1997-12-21T00:00:00+00:00,Bengals,16,14,Ravens
 1997,17,1997-12-21T00:00:00+00:00,Broncos,38,3,Chargers
 1997,17,1997-12-21T00:00:00+00:00,Buccaneers,31,15,Bears
@@ -237,11 +239,12 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1997,17,1997-12-21T00:00:00+00:00,Seahawks,38,9,49ers
 1997,17,1997-12-21T00:00:00+00:00,Vikings,39,28,Colts
 1997,17,1997-12-22T00:00:00+00:00,Dolphins,12,14,Patriots
-1997,17,1997-12-27T00:00:00+00:00,Giants,22,23,Vikings
+1997,18,1997-12-27T00:00:00+00:00,Broncos,42,17,Jaguars
+1997,18,1997-12-27T00:00:00+00:00,Giants,22,23,Vikings
 1997,18,1997-12-28T00:00:00+00:00,Buccaneers,20,10,Lions
 1997,18,1997-12-28T00:00:00+00:00,Patriots,17,3,Dolphins
-1997,18,1998-01-03T00:00:00+00:00,49ers,38,22,Vikings
-1997,18,1998-01-03T00:00:00+00:00,Steelers,7,6,Patriots
+1997,19,1998-01-03T00:00:00+00:00,49ers,38,22,Vikings
+1997,19,1998-01-03T00:00:00+00:00,Steelers,7,6,Patriots
 1997,19,1998-01-04T00:00:00+00:00,Chiefs,10,14,Broncos
 1997,19,1998-01-04T00:00:00+00:00,Packers,21,7,Buccaneers
 1997,20,1998-01-11T00:00:00+00:00,49ers,10,23,Packers

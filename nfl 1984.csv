@@ -13,7 +13,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1984,1,1984-09-02T00:00:00+00:00,Vikings,13,42,Chargers
 1984,1,1984-09-03T00:00:00+00:00,Rams,13,20,Cowboys
 1984,1,1984-09-03T00:00:00+00:00,Seahawks,33,0,Browns
-1984,1,1984-09-06T00:00:00+00:00,Jets,17,23,Steelers
+1984,2,1984-09-06T00:00:00+00:00,Jets,17,23,Steelers
 1984,2,1984-09-09T00:00:00+00:00,Bears,27,0,Broncos
 1984,2,1984-09-09T00:00:00+00:00,Bengals,22,27,Chiefs
 1984,2,1984-09-09T00:00:00+00:00,Cardinals,37,7,Bills
@@ -167,8 +167,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1984,12,1984-11-18T00:00:00+00:00,Packers,31,6,Rams
 1984,12,1984-11-18T00:00:00+00:00,Raiders,17,7,Chiefs
 1984,12,1984-11-19T00:00:00+00:00,Saints,27,24,Steelers
-1984,12,1984-11-22T00:00:00+00:00,Cowboys,20,17,Patriots
-1984,12,1984-11-22T00:00:00+00:00,Lions,31,28,Packers
+1984,13,1984-11-22T00:00:00+00:00,Cowboys,20,17,Patriots
+1984,13,1984-11-22T00:00:00+00:00,Lions,31,28,Packers
 1984,13,1984-11-25T00:00:00+00:00,Bengals,35,14,Falcons
 1984,13,1984-11-25T00:00:00+00:00,Broncos,24,27,Seahawks
 1984,13,1984-11-25T00:00:00+00:00,Browns,27,10,Oilers
@@ -181,6 +181,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1984,13,1984-11-25T00:00:00+00:00,Steelers,52,24,Chargers
 1984,13,1984-11-25T00:00:00+00:00,Vikings,3,34,Bears
 1984,13,1984-11-26T00:00:00+00:00,Dolphins,28,17,Jets
+1984,14,1984-11-29T00:00:00+00:00,Vikings,17,31,Redskins
 1984,14,1984-12-02T00:00:00+00:00,Bills,21,15,Colts
 1984,14,1984-12-02T00:00:00+00:00,Browns,17,20,Bengals
 1984,14,1984-12-02T00:00:00+00:00,Chiefs,16,13,Broncos
@@ -194,7 +195,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1984,14,1984-12-02T00:00:00+00:00,Rams,34,21,Saints
 1984,14,1984-12-02T00:00:00+00:00,Seahawks,38,17,Lions
 1984,14,1984-12-03T00:00:00+00:00,Chargers,20,7,Bears
-1984,14,1984-12-08T00:00:00+00:00,49ers,51,7,Vikings
+1984,15,1984-12-08T00:00:00+00:00,49ers,51,7,Vikings
+1984,15,1984-12-08T00:00:00+00:00,Jets,21,17,Bills
 1984,15,1984-12-09T00:00:00+00:00,Bears,14,20,Packers
 1984,15,1984-12-09T00:00:00+00:00,Broncos,16,13,Chargers
 1984,15,1984-12-09T00:00:00+00:00,Buccaneers,23,6,Falcons
@@ -207,9 +209,9 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1984,15,1984-12-09T00:00:00+00:00,Saints,21,24,Bengals
 1984,15,1984-12-09T00:00:00+00:00,Steelers,23,20,Browns
 1984,15,1984-12-10T00:00:00+00:00,Lions,3,24,Raiders
-1984,15,1984-12-14T00:00:00+00:00,49ers,19,16,Rams
-1984,15,1984-12-15T00:00:00+00:00,Giants,3,10,Saints
-1984,15,1984-12-15T00:00:00+00:00,Seahawks,14,31,Broncos
+1984,16,1984-12-14T00:00:00+00:00,49ers,19,16,Rams
+1984,16,1984-12-15T00:00:00+00:00,Giants,3,10,Saints
+1984,16,1984-12-15T00:00:00+00:00,Seahawks,14,31,Broncos
 1984,16,1984-12-16T00:00:00+00:00,Bengals,52,21,Bills
 1984,16,1984-12-16T00:00:00+00:00,Buccaneers,41,21,Jets
 1984,16,1984-12-16T00:00:00+00:00,Chargers,21,42,Chiefs
@@ -221,10 +223,10 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1984,16,1984-12-16T00:00:00+00:00,Redskins,29,27,Cardinals
 1984,16,1984-12-16T00:00:00+00:00,Vikings,14,38,Packers
 1984,16,1984-12-17T00:00:00+00:00,Dolphins,28,21,Cowboys
-1984,16,1984-12-22T00:00:00+00:00,Seahawks,13,7,Raiders
+1984,17,1984-12-22T00:00:00+00:00,Seahawks,13,7,Raiders
 1984,17,1984-12-23T00:00:00+00:00,Rams,13,16,Giants
-1984,17,1984-12-29T00:00:00+00:00,49ers,21,10,Giants
-1984,17,1984-12-29T00:00:00+00:00,Dolphins,31,10,Seahawks
+1984,18,1984-12-29T00:00:00+00:00,49ers,21,10,Giants
+1984,18,1984-12-29T00:00:00+00:00,Dolphins,31,10,Seahawks
 1984,18,1984-12-30T00:00:00+00:00,Broncos,17,24,Steelers
 1984,18,1984-12-30T00:00:00+00:00,Redskins,19,23,Bears
 1984,19,1985-01-06T00:00:00+00:00,49ers,23,0,Bears

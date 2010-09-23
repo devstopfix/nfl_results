@@ -13,7 +13,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1981,1,1981-09-06T00:00:00+00:00,Redskins,10,26,Cowboys
 1981,1,1981-09-06T00:00:00+00:00,Steelers,33,37,Chiefs
 1981,1,1981-09-07T00:00:00+00:00,Browns,14,44,Chargers
-1981,1,1981-09-10T00:00:00+00:00,Dolphins,30,10,Steelers
+1981,2,1981-09-10T00:00:00+00:00,Dolphins,30,10,Steelers
 1981,2,1981-09-13T00:00:00+00:00,49ers,28,17,Bears
 1981,2,1981-09-13T00:00:00+00:00,Browns,3,9,Oilers
 1981,2,1981-09-13T00:00:00+00:00,Chargers,28,23,Lions
@@ -27,7 +27,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1981,2,1981-09-13T00:00:00+00:00,Saints,23,17,Rams
 1981,2,1981-09-13T00:00:00+00:00,Seahawks,13,10,Broncos
 1981,2,1981-09-14T00:00:00+00:00,Vikings,10,36,Raiders
-1981,2,1981-09-17T00:00:00+00:00,Bills,14,20,Eagles
+1981,3,1981-09-17T00:00:00+00:00,Bills,14,20,Eagles
 1981,3,1981-09-20T00:00:00+00:00,Bears,28,17,Buccaneers
 1981,3,1981-09-20T00:00:00+00:00,Bengals,17,20,Browns
 1981,3,1981-09-20T00:00:00+00:00,Broncos,28,10,Colts
@@ -167,7 +167,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1981,12,1981-11-22T00:00:00+00:00,Raiders,21,55,Chargers
 1981,12,1981-11-22T00:00:00+00:00,Rams,31,33,49ers
 1981,12,1981-11-23T00:00:00+00:00,Falcons,31,30,Vikings
-1981,12,1981-11-26T00:00:00+00:00,Lions,27,10,Chiefs
+1981,13,1981-11-26T00:00:00+00:00,Cowboys,10,9,Bears
+1981,13,1981-11-26T00:00:00+00:00,Lions,27,10,Chiefs
 1981,13,1981-11-29T00:00:00+00:00,49ers,17,10,Giants
 1981,13,1981-11-29T00:00:00+00:00,Bills,21,14,Redskins
 1981,13,1981-11-29T00:00:00+00:00,Browns,21,41,Bengals
@@ -180,6 +181,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1981,13,1981-11-29T00:00:00+00:00,Steelers,24,0,Rams
 1981,13,1981-11-29T00:00:00+00:00,Vikings,23,35,Packers
 1981,13,1981-11-30T00:00:00+00:00,Dolphins,13,10,Eagles
+1981,14,1981-12-03T00:00:00+00:00,Oilers,17,13,Browns
 1981,14,1981-12-06T00:00:00+00:00,Bears,10,9,Vikings
 1981,14,1981-12-06T00:00:00+00:00,Bengals,3,21,49ers
 1981,14,1981-12-06T00:00:00+00:00,Broncos,16,13,Chiefs
@@ -193,8 +195,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1981,14,1981-12-06T00:00:00+00:00,Redskins,15,13,Eagles
 1981,14,1981-12-06T00:00:00+00:00,Seahawks,27,23,Jets
 1981,14,1981-12-07T00:00:00+00:00,Raiders,30,27,Steelers
-1981,14,1981-12-12T00:00:00+00:00,Browns,13,14,Jets
-1981,14,1981-12-12T00:00:00+00:00,Lions,45,7,Vikings
+1981,15,1981-12-12T00:00:00+00:00,Browns,13,14,Jets
+1981,15,1981-12-12T00:00:00+00:00,Lions,45,7,Vikings
 1981,15,1981-12-13T00:00:00+00:00,49ers,28,6,Oilers
 1981,15,1981-12-13T00:00:00+00:00,Broncos,23,13,Seahawks
 1981,15,1981-12-13T00:00:00+00:00,Buccaneers,23,24,Chargers
@@ -207,8 +209,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1981,15,1981-12-13T00:00:00+00:00,Saints,7,35,Packers
 1981,15,1981-12-13T00:00:00+00:00,Steelers,10,17,Bengals
 1981,15,1981-12-14T00:00:00+00:00,Rams,21,16,Falcons
-1981,15,1981-12-19T00:00:00+00:00,Dolphins,16,6,Bills
-1981,15,1981-12-19T00:00:00+00:00,Giants,13,10,Cowboys
+1981,16,1981-12-19T00:00:00+00:00,Dolphins,16,6,Bills
+1981,16,1981-12-19T00:00:00+00:00,Giants,13,10,Cowboys
 1981,16,1981-12-20T00:00:00+00:00,Bears,35,24,Broncos
 1981,16,1981-12-20T00:00:00+00:00,Colts,23,21,Patriots
 1981,16,1981-12-20T00:00:00+00:00,Eagles,38,0,Cardinals
@@ -223,8 +225,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1981,16,1981-12-21T00:00:00+00:00,Chargers,23,10,Raiders
 1981,17,1981-12-27T00:00:00+00:00,Eagles,21,27,Giants
 1981,17,1981-12-27T00:00:00+00:00,Jets,27,31,Bills
-1981,17,1982-01-02T00:00:00+00:00,Cowboys,38,0,Buccaneers
-1981,17,1982-01-02T00:00:00+00:00,Dolphins,38,41,Chargers
+1981,18,1982-01-02T00:00:00+00:00,Cowboys,38,0,Buccaneers
+1981,18,1982-01-02T00:00:00+00:00,Dolphins,38,41,Chargers
 1981,18,1982-01-03T00:00:00+00:00,49ers,38,24,Giants
 1981,18,1982-01-03T00:00:00+00:00,Bengals,28,21,Bills
 1981,19,1982-01-10T00:00:00+00:00,49ers,28,27,Cowboys

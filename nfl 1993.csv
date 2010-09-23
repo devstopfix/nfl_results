@@ -69,7 +69,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1993,6,1993-10-10T00:00:00+00:00,Steelers,16,3,Chargers
 1993,6,1993-10-10T00:00:00+00:00,Vikings,15,0,Buccaneers
 1993,6,1993-10-11T00:00:00+00:00,Bills,35,7,Oilers
-1993,6,1993-10-14T00:00:00+00:00,Falcons,30,24,Rams
+1993,7,1993-10-14T00:00:00+00:00,Falcons,30,24,Rams
 1993,7,1993-10-17T00:00:00+00:00,Bengals,17,28,Browns
 1993,7,1993-10-17T00:00:00+00:00,Cardinals,36,6,Redskins
 1993,7,1993-10-17T00:00:00+00:00,Chargers,14,17,Chiefs
@@ -139,8 +139,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1993,12,1993-11-21T00:00:00+00:00,Packers,26,17,Lions
 1993,12,1993-11-21T00:00:00+00:00,Rams,10,6,Redskins
 1993,12,1993-11-22T00:00:00+00:00,49ers,42,7,Saints
-1993,12,1993-11-25T00:00:00+00:00,Cowboys,14,16,Dolphins
-1993,12,1993-11-25T00:00:00+00:00,Lions,6,10,Bears
+1993,13,1993-11-25T00:00:00+00:00,Cowboys,14,16,Dolphins
+1993,13,1993-11-25T00:00:00+00:00,Lions,6,10,Bears
 1993,13,1993-11-28T00:00:00+00:00,Bengals,16,10,Raiders
 1993,13,1993-11-28T00:00:00+00:00,Chiefs,23,7,Bills
 1993,13,1993-11-28T00:00:00+00:00,Falcons,17,14,Browns
@@ -167,8 +167,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1993,14,1993-12-05T00:00:00+00:00,Seahawks,16,31,Chiefs
 1993,14,1993-12-05T00:00:00+00:00,Steelers,17,14,Patriots
 1993,14,1993-12-06T00:00:00+00:00,Cowboys,23,17,Eagles
-1993,14,1993-12-11T00:00:00+00:00,Falcons,27,24,49ers
-1993,14,1993-12-11T00:00:00+00:00,Redskins,0,3,Jets
+1993,15,1993-12-11T00:00:00+00:00,Falcons,27,24,49ers
+1993,15,1993-12-11T00:00:00+00:00,Redskins,0,3,Jets
 1993,15,1993-12-12T00:00:00+00:00,Broncos,27,21,Chiefs
 1993,15,1993-12-12T00:00:00+00:00,Buccaneers,13,10,Bears
 1993,15,1993-12-12T00:00:00+00:00,Cardinals,14,21,Lions
@@ -181,8 +181,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1993,15,1993-12-12T00:00:00+00:00,Saints,20,23,Rams
 1993,15,1993-12-12T00:00:00+00:00,Vikings,20,37,Cowboys
 1993,15,1993-12-13T00:00:00+00:00,Dolphins,20,21,Steelers
-1993,15,1993-12-18T00:00:00+00:00,Bears,3,13,Broncos
-1993,15,1993-12-18T00:00:00+00:00,Jets,7,28,Cowboys
+1993,16,1993-12-18T00:00:00+00:00,Bears,3,13,Broncos
+1993,16,1993-12-18T00:00:00+00:00,Jets,7,28,Cowboys
 1993,16,1993-12-19T00:00:00+00:00,Bengals,15,3,Rams
 1993,16,1993-12-19T00:00:00+00:00,Browns,17,20,Patriots
 1993,16,1993-12-19T00:00:00+00:00,Chiefs,28,24,Chargers
@@ -195,7 +195,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1993,16,1993-12-19T00:00:00+00:00,Seahawks,27,30,Cardinals
 1993,16,1993-12-19T00:00:00+00:00,Steelers,17,26,Oilers
 1993,16,1993-12-20T00:00:00+00:00,Saints,14,24,Giants
-1993,16,1993-12-25T00:00:00+00:00,49ers,7,10,Oilers
+1993,17,1993-12-25T00:00:00+00:00,49ers,7,10,Oilers
 1993,17,1993-12-26T00:00:00+00:00,Bears,14,20,Lions
 1993,17,1993-12-26T00:00:00+00:00,Bengals,21,17,Falcons
 1993,17,1993-12-26T00:00:00+00:00,Bills,16,14,Jets
@@ -209,7 +209,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1993,17,1993-12-26T00:00:00+00:00,Seahawks,16,6,Steelers
 1993,17,1993-12-26T00:00:00+00:00,Vikings,30,10,Chiefs
 1993,17,1993-12-27T00:00:00+00:00,Chargers,45,20,Dolphins
-1993,17,1993-12-31T00:00:00+00:00,Redskins,9,14,Vikings
+1993,18,1993-12-31T00:00:00+00:00,Redskins,9,14,Vikings
 1993,18,1994-01-02T00:00:00+00:00,Buccaneers,17,32,Chargers
 1993,18,1994-01-02T00:00:00+00:00,Chiefs,34,24,Seahawks
 1993,18,1994-01-02T00:00:00+00:00,Colts,10,30,Bills
@@ -223,10 +223,12 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1993,18,1994-01-02T00:00:00+00:00,Saints,20,13,Bengals
 1993,18,1994-01-02T00:00:00+00:00,Steelers,16,9,Browns
 1993,18,1994-01-03T00:00:00+00:00,49ers,34,37,Eagles
+1993,19,1994-01-08T00:00:00+00:00,Chiefs,27,24,Steelers
+1993,19,1994-01-08T00:00:00+00:00,Lions,24,28,Packers
 1993,19,1994-01-09T00:00:00+00:00,Giants,17,10,Vikings
 1993,19,1994-01-09T00:00:00+00:00,Raiders,42,24,Broncos
-1993,19,1994-01-15T00:00:00+00:00,49ers,44,3,Giants
-1993,19,1994-01-15T00:00:00+00:00,Bills,29,23,Raiders
+1993,20,1994-01-15T00:00:00+00:00,49ers,44,3,Giants
+1993,20,1994-01-15T00:00:00+00:00,Bills,29,23,Raiders
 1993,20,1994-01-16T00:00:00+00:00,Cowboys,27,17,Packers
 1993,20,1994-01-16T00:00:00+00:00,Oilers,20,28,Chiefs
 1993,21,1994-01-23T00:00:00+00:00,Bills,30,13,Chiefs

@@ -97,7 +97,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1987,11,1987-11-22T00:00:00+00:00,Seahawks,34,3,Chargers
 1987,11,1987-11-22T00:00:00+00:00,Vikings,24,13,Falcons
 1987,11,1987-11-23T00:00:00+00:00,Redskins,26,30,Rams
-1987,11,1987-11-26T00:00:00+00:00,Lions,20,27,Chiefs
+1987,12,1987-11-26T00:00:00+00:00,Cowboys,38,44,Vikings
+1987,12,1987-11-26T00:00:00+00:00,Lions,20,27,Chiefs
 1987,12,1987-11-29T00:00:00+00:00,49ers,38,24,Browns
 1987,12,1987-11-29T00:00:00+00:00,Bears,23,10,Packers
 1987,12,1987-11-29T00:00:00+00:00,Bills,27,0,Dolphins
@@ -138,8 +139,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1987,14,1987-12-13T00:00:00+00:00,Saints,24,10,Oilers
 1987,14,1987-12-13T00:00:00+00:00,Seahawks,28,21,Broncos
 1987,14,1987-12-14T00:00:00+00:00,49ers,41,0,Bears
-1987,14,1987-12-19T00:00:00+00:00,Broncos,20,17,Chiefs
-1987,14,1987-12-19T00:00:00+00:00,Giants,20,10,Packers
+1987,15,1987-12-19T00:00:00+00:00,Broncos,20,17,Chiefs
+1987,15,1987-12-19T00:00:00+00:00,Giants,20,10,Packers
 1987,15,1987-12-20T00:00:00+00:00,49ers,35,7,Falcons
 1987,15,1987-12-20T00:00:00+00:00,Bears,21,34,Seahawks
 1987,15,1987-12-20T00:00:00+00:00,Bengals,24,41,Saints
@@ -152,8 +153,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1987,15,1987-12-20T00:00:00+00:00,Oilers,24,16,Steelers
 1987,15,1987-12-20T00:00:00+00:00,Raiders,17,24,Browns
 1987,15,1987-12-21T00:00:00+00:00,Rams,21,29,Cowboys
-1987,15,1987-12-26T00:00:00+00:00,Steelers,13,19,Browns
-1987,15,1987-12-26T00:00:00+00:00,Vikings,24,27,Redskins
+1987,16,1987-12-26T00:00:00+00:00,Steelers,13,19,Browns
+1987,16,1987-12-26T00:00:00+00:00,Vikings,24,27,Redskins
 1987,16,1987-12-27T00:00:00+00:00,49ers,48,0,Rams
 1987,16,1987-12-27T00:00:00+00:00,Broncos,24,0,Chargers
 1987,16,1987-12-27T00:00:00+00:00,Chiefs,41,20,Seahawks
@@ -168,8 +169,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1987,16,1987-12-28T00:00:00+00:00,Dolphins,10,24,Patriots
 1987,17,1988-01-03T00:00:00+00:00,Oilers,23,20,Seahawks
 1987,17,1988-01-03T00:00:00+00:00,Saints,10,44,Vikings
-1987,17,1988-01-09T00:00:00+00:00,49ers,24,36,Vikings
-1987,17,1988-01-09T00:00:00+00:00,Browns,38,21,Colts
+1987,18,1988-01-09T00:00:00+00:00,49ers,24,36,Vikings
+1987,18,1988-01-09T00:00:00+00:00,Browns,38,21,Colts
 1987,18,1988-01-10T00:00:00+00:00,Bears,17,21,Redskins
 1987,18,1988-01-10T00:00:00+00:00,Broncos,34,10,Oilers
 1987,19,1988-01-17T00:00:00+00:00,Broncos,38,33,Browns

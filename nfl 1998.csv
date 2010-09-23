@@ -80,7 +80,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1998,6,1998-10-11T00:00:00+00:00,Saints,0,31,49ers
 1998,6,1998-10-11T00:00:00+00:00,Seahawks,16,21,Broncos
 1998,6,1998-10-12T00:00:00+00:00,Jaguars,28,21,Dolphins
-1998,6,1998-10-15T00:00:00+00:00,Lions,27,20,Packers
+1998,7,1998-10-15T00:00:00+00:00,Lions,27,20,Packers
 1998,7,1998-10-18T00:00:00+00:00,49ers,34,31,Colts
 1998,7,1998-10-18T00:00:00+00:00,Bears,13,12,Cowboys
 1998,7,1998-10-18T00:00:00+00:00,Bills,17,16,Jaguars
@@ -164,7 +164,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1998,12,1998-11-22T00:00:00+00:00,Steelers,30,15,Jaguars
 1998,12,1998-11-22T00:00:00+00:00,Vikings,28,14,Packers
 1998,12,1998-11-23T00:00:00+00:00,Patriots,26,23,Dolphins
-1998,12,1998-11-26T00:00:00+00:00,Lions,19,16,Steelers
+1998,13,1998-11-26T00:00:00+00:00,Cowboys,36,46,Vikings
+1998,13,1998-11-26T00:00:00+00:00,Lions,19,16,Steelers
 1998,13,1998-11-29T00:00:00+00:00,Bears,17,31,Buccaneers
 1998,13,1998-11-29T00:00:00+00:00,Bengals,17,34,Jaguars
 1998,13,1998-11-29T00:00:00+00:00,Chargers,16,31,Broncos
@@ -178,7 +179,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1998,13,1998-11-29T00:00:00+00:00,Ravens,38,31,Colts
 1998,13,1998-11-29T00:00:00+00:00,Seahawks,20,18,Oilers
 1998,13,1998-11-30T00:00:00+00:00,49ers,31,7,Giants
-1998,13,1998-12-03T00:00:00+00:00,Eagles,17,14,Rams
+1998,14,1998-12-03T00:00:00+00:00,Eagles,17,14,Rams
 1998,14,1998-12-06T00:00:00+00:00,Bengals,20,33,Bills
 1998,14,1998-12-06T00:00:00+00:00,Broncos,35,31,Chiefs
 1998,14,1998-12-06T00:00:00+00:00,Cardinals,19,23,Giants
@@ -208,7 +209,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1998,15,1998-12-13T00:00:00+00:00,Saints,17,27,Falcons
 1998,15,1998-12-13T00:00:00+00:00,Seahawks,38,17,Chargers
 1998,15,1998-12-14T00:00:00+00:00,49ers,35,13,Lions
-1998,15,1998-12-19T00:00:00+00:00,Redskins,20,16,Buccaneers
+1998,16,1998-12-19T00:00:00+00:00,Bills,10,17,Jets
+1998,16,1998-12-19T00:00:00+00:00,Redskins,20,16,Buccaneers
 1998,16,1998-12-20T00:00:00+00:00,Bears,24,3,Ravens
 1998,16,1998-12-20T00:00:00+00:00,Cardinals,19,17,Saints
 1998,16,1998-12-20T00:00:00+00:00,Chargers,10,17,Raiders
@@ -222,8 +224,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1998,16,1998-12-20T00:00:00+00:00,Steelers,24,25,Bengals
 1998,16,1998-12-20T00:00:00+00:00,Vikings,50,10,Jaguars
 1998,16,1998-12-21T00:00:00+00:00,Dolphins,31,21,Broncos
-1998,16,1998-12-26T00:00:00+00:00,Oilers,16,26,Vikings
-1998,16,1998-12-26T00:00:00+00:00,Raiders,24,31,Chiefs
+1998,17,1998-12-26T00:00:00+00:00,Oilers,16,26,Vikings
+1998,17,1998-12-26T00:00:00+00:00,Raiders,24,31,Chiefs
 1998,17,1998-12-27T00:00:00+00:00,49ers,38,19,Rams
 1998,17,1998-12-27T00:00:00+00:00,Bears,13,16,Packers
 1998,17,1998-12-27T00:00:00+00:00,Bengals,0,35,Buccaneers
@@ -237,11 +239,12 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1998,17,1998-12-27T00:00:00+00:00,Ravens,19,10,Lions
 1998,17,1998-12-27T00:00:00+00:00,Saints,33,45,Bills
 1998,17,1998-12-28T00:00:00+00:00,Jaguars,21,3,Steelers
-1998,17,1999-01-02T00:00:00+00:00,Dolphins,24,17,Bills
+1998,18,1999-01-02T00:00:00+00:00,Cowboys,7,20,Cardinals
+1998,18,1999-01-02T00:00:00+00:00,Dolphins,24,17,Bills
 1998,18,1999-01-03T00:00:00+00:00,49ers,30,27,Packers
 1998,18,1999-01-03T00:00:00+00:00,Jaguars,25,10,Patriots
-1998,18,1999-01-09T00:00:00+00:00,Broncos,38,3,Dolphins
-1998,18,1999-01-09T00:00:00+00:00,Falcons,20,18,49ers
+1998,19,1999-01-09T00:00:00+00:00,Broncos,38,3,Dolphins
+1998,19,1999-01-09T00:00:00+00:00,Falcons,20,18,49ers
 1998,19,1999-01-10T00:00:00+00:00,Jets,34,24,Jaguars
 1998,19,1999-01-10T00:00:00+00:00,Vikings,41,21,Cardinals
 1998,20,1999-01-17T00:00:00+00:00,Broncos,23,10,Jets

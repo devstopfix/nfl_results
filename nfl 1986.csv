@@ -13,7 +13,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1986,1,1986-09-07T00:00:00+00:00,Seahawks,30,0,Steelers
 1986,1,1986-09-07T00:00:00+00:00,Vikings,10,13,Lions
 1986,1,1986-09-08T00:00:00+00:00,Cowboys,31,28,Giants
-1986,1,1986-09-11T00:00:00+00:00,Jets,6,20,Patriots
+1986,2,1986-09-11T00:00:00+00:00,Jets,6,20,Patriots
 1986,2,1986-09-14T00:00:00+00:00,Bears,13,10,Eagles
 1986,2,1986-09-14T00:00:00+00:00,Bengals,36,33,Bills
 1986,2,1986-09-14T00:00:00+00:00,Buccaneers,10,23,Vikings
@@ -27,7 +27,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1986,2,1986-09-14T00:00:00+00:00,Saints,24,10,Packers
 1986,2,1986-09-14T00:00:00+00:00,Seahawks,23,17,Chiefs
 1986,2,1986-09-15T00:00:00+00:00,Steelers,10,21,Broncos
-1986,2,1986-09-18T00:00:00+00:00,Browns,13,30,Bengals
+1986,3,1986-09-18T00:00:00+00:00,Browns,13,30,Bengals
 1986,3,1986-09-21T00:00:00+00:00,49ers,26,17,Saints
 1986,3,1986-09-21T00:00:00+00:00,Bills,17,10,Cardinals
 1986,3,1986-09-21T00:00:00+00:00,Chargers,27,30,Redskins
@@ -153,6 +153,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1986,11,1986-11-16T00:00:00+00:00,Steelers,21,10,Oilers
 1986,11,1986-11-16T00:00:00+00:00,Vikings,20,22,Giants
 1986,11,1986-11-17T00:00:00+00:00,Redskins,14,6,49ers
+1986,12,1986-11-20T00:00:00+00:00,Chargers,31,37,Raiders
 1986,12,1986-11-23T00:00:00+00:00,49ers,20,0,Falcons
 1986,12,1986-11-23T00:00:00+00:00,Bears,12,10,Packers
 1986,12,1986-11-23T00:00:00+00:00,Bengals,24,20,Vikings
@@ -166,8 +167,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1986,12,1986-11-23T00:00:00+00:00,Redskins,41,14,Cowboys
 1986,12,1986-11-23T00:00:00+00:00,Seahawks,24,20,Eagles
 1986,12,1986-11-24T00:00:00+00:00,Dolphins,45,3,Jets
-1986,12,1986-11-27T00:00:00+00:00,Cowboys,14,31,Seahawks
-1986,12,1986-11-27T00:00:00+00:00,Lions,40,44,Packers
+1986,13,1986-11-27T00:00:00+00:00,Cowboys,14,31,Seahawks
+1986,13,1986-11-27T00:00:00+00:00,Lions,40,44,Packers
 1986,13,1986-11-30T00:00:00+00:00,Bears,13,10,Steelers
 1986,13,1986-11-30T00:00:00+00:00,Broncos,34,28,Bengals
 1986,13,1986-11-30T00:00:00+00:00,Browns,13,10,Oilers
@@ -194,8 +195,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1986,14,1986-12-07T00:00:00+00:00,Saints,27,31,Dolphins
 1986,14,1986-12-07T00:00:00+00:00,Steelers,27,17,Lions
 1986,14,1986-12-08T00:00:00+00:00,Seahawks,37,0,Raiders
-1986,14,1986-12-13T00:00:00+00:00,Broncos,31,30,Redskins
-1986,14,1986-12-13T00:00:00+00:00,Jets,24,45,Steelers
+1986,15,1986-12-13T00:00:00+00:00,Broncos,31,30,Redskins
+1986,15,1986-12-13T00:00:00+00:00,Jets,24,45,Steelers
 1986,15,1986-12-14T00:00:00+00:00,Bengals,3,34,Browns
 1986,15,1986-12-14T00:00:00+00:00,Buccaneers,7,21,Packers
 1986,15,1986-12-14T00:00:00+00:00,Chargers,24,34,Seahawks
@@ -208,8 +209,9 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1986,15,1986-12-14T00:00:00+00:00,Raiders,17,20,Chiefs
 1986,15,1986-12-14T00:00:00+00:00,Rams,31,37,Dolphins
 1986,15,1986-12-15T00:00:00+00:00,Lions,13,16,Bears
-1986,15,1986-12-19T00:00:00+00:00,49ers,24,14,Rams
-1986,15,1986-12-20T00:00:00+00:00,Seahawks,41,16,Broncos
+1986,16,1986-12-19T00:00:00+00:00,49ers,24,14,Rams
+1986,16,1986-12-20T00:00:00+00:00,Giants,55,24,Packers
+1986,16,1986-12-20T00:00:00+00:00,Seahawks,41,16,Broncos
 1986,16,1986-12-21T00:00:00+00:00,Bengals,52,21,Jets
 1986,16,1986-12-21T00:00:00+00:00,Browns,47,17,Chargers
 1986,16,1986-12-21T00:00:00+00:00,Cardinals,21,17,Buccaneers
@@ -223,8 +225,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1986,16,1986-12-22T00:00:00+00:00,Dolphins,27,34,Patriots
 1986,17,1986-12-28T00:00:00+00:00,Jets,35,15,Chiefs
 1986,17,1986-12-28T00:00:00+00:00,Redskins,19,7,Rams
-1986,17,1987-01-03T00:00:00+00:00,Bears,13,27,Redskins
-1986,17,1987-01-03T00:00:00+00:00,Browns,23,20,Jets
+1986,18,1987-01-03T00:00:00+00:00,Bears,13,27,Redskins
+1986,18,1987-01-03T00:00:00+00:00,Browns,23,20,Jets
 1986,18,1987-01-04T00:00:00+00:00,Broncos,22,17,Patriots
 1986,18,1987-01-04T00:00:00+00:00,Giants,49,3,49ers
 1986,19,1987-01-11T00:00:00+00:00,Browns,20,23,Broncos

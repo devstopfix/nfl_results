@@ -90,7 +90,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1991,7,1991-10-13T00:00:00+00:00,Seahawks,20,23,Raiders
 1991,7,1991-10-13T00:00:00+00:00,Vikings,34,7,Cardinals
 1991,7,1991-10-14T00:00:00+00:00,Steelers,20,23,Giants
-1991,7,1991-10-17T00:00:00+00:00,Packers,0,10,Bears
+1991,8,1991-10-17T00:00:00+00:00,Packers,0,10,Bears
 1991,8,1991-10-20T00:00:00+00:00,49ers,35,3,Lions
 1991,8,1991-10-20T00:00:00+00:00,Broncos,19,16,Chiefs
 1991,8,1991-10-20T00:00:00+00:00,Cardinals,16,10,Falcons
@@ -168,8 +168,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1991,13,1991-11-24T00:00:00+00:00,Steelers,26,14,Oilers
 1991,13,1991-11-24T00:00:00+00:00,Vikings,14,34,Lions
 1991,13,1991-11-25T00:00:00+00:00,Rams,10,33,49ers
-1991,13,1991-11-28T00:00:00+00:00,Cowboys,20,10,Steelers
-1991,13,1991-11-28T00:00:00+00:00,Lions,16,6,Bears
+1991,14,1991-11-28T00:00:00+00:00,Cowboys,20,10,Steelers
+1991,14,1991-11-28T00:00:00+00:00,Lions,16,6,Bears
 1991,14,1991-12-01T00:00:00+00:00,49ers,38,24,Saints
 1991,14,1991-12-01T00:00:00+00:00,Bengals,27,24,Giants
 1991,14,1991-12-01T00:00:00+00:00,Bills,24,13,Jets
@@ -195,7 +195,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1991,15,1991-12-08T00:00:00+00:00,Rams,14,31,Falcons
 1991,15,1991-12-08T00:00:00+00:00,Seahawks,22,24,49ers
 1991,15,1991-12-09T00:00:00+00:00,Dolphins,37,13,Bengals
-1991,15,1991-12-14T00:00:00+00:00,49ers,28,14,Chiefs
+1991,16,1991-12-14T00:00:00+00:00,49ers,28,14,Chiefs
+1991,16,1991-12-14T00:00:00+00:00,Bears,27,0,Buccaneers
 1991,16,1991-12-15T00:00:00+00:00,Broncos,24,19,Cardinals
 1991,16,1991-12-15T00:00:00+00:00,Browns,14,17,Oilers
 1991,16,1991-12-15T00:00:00+00:00,Chargers,38,30,Dolphins
@@ -208,7 +209,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1991,16,1991-12-15T00:00:00+00:00,Steelers,17,10,Bengals
 1991,16,1991-12-15T00:00:00+00:00,Vikings,20,14,Rams
 1991,16,1991-12-16T00:00:00+00:00,Saints,27,0,Raiders
-1991,16,1991-12-21T00:00:00+00:00,Giants,24,20,Oilers
+1991,17,1991-12-21T00:00:00+00:00,Giants,24,20,Oilers
+1991,17,1991-12-21T00:00:00+00:00,Vikings,7,27,Packers
 1991,17,1991-12-22T00:00:00+00:00,Bengals,29,7,Patriots
 1991,17,1991-12-22T00:00:00+00:00,Bills,14,17,Lions
 1991,17,1991-12-22T00:00:00+00:00,Buccaneers,17,3,Colts
@@ -221,12 +223,12 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1991,17,1991-12-22T00:00:00+00:00,Seahawks,23,9,Rams
 1991,17,1991-12-22T00:00:00+00:00,Steelers,17,10,Browns
 1991,17,1991-12-23T00:00:00+00:00,49ers,52,14,Bears
-1991,17,1991-12-28T00:00:00+00:00,Chiefs,10,6,Raiders
-1991,17,1991-12-28T00:00:00+00:00,Saints,20,27,Falcons
+1991,18,1991-12-28T00:00:00+00:00,Chiefs,10,6,Raiders
+1991,18,1991-12-28T00:00:00+00:00,Saints,20,27,Falcons
 1991,18,1991-12-29T00:00:00+00:00,Bears,13,17,Cowboys
 1991,18,1991-12-29T00:00:00+00:00,Oilers,17,10,Jets
-1991,18,1992-01-04T00:00:00+00:00,Broncos,26,24,Oilers
-1991,18,1992-01-04T00:00:00+00:00,Redskins,24,7,Falcons
+1991,19,1992-01-04T00:00:00+00:00,Broncos,26,24,Oilers
+1991,19,1992-01-04T00:00:00+00:00,Redskins,24,7,Falcons
 1991,19,1992-01-05T00:00:00+00:00,Bills,37,14,Chiefs
 1991,19,1992-01-05T00:00:00+00:00,Lions,38,6,Cowboys
 1991,20,1992-01-12T00:00:00+00:00,Bills,10,7,Broncos

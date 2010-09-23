@@ -1,5 +1,4 @@
 season,week,kickoff,home_team,home_score,visitors_score,visiting_team
-1978,1,1978-09-02T00:00:00+00:00,Buccaneers,13,19,Giants
 1978,1,1978-09-03T00:00:00+00:00,Bears,17,10,Cardinals
 1978,1,1978-09-03T00:00:00+00:00,Bengals,23,24,Chiefs
 1978,1,1978-09-03T00:00:00+00:00,Bills,17,28,Steelers
@@ -111,6 +110,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1978,8,1978-10-22T00:00:00+00:00,Seahawks,27,7,Raiders
 1978,8,1978-10-22T00:00:00+00:00,Vikings,21,7,Packers
 1978,8,1978-10-23T00:00:00+00:00,Steelers,17,24,Oilers
+1978,9,1978-10-26T00:00:00+00:00,Cowboys,10,21,Vikings
 1978,9,1978-10-29T00:00:00+00:00,Bears,17,21,Lions
 1978,9,1978-10-29T00:00:00+00:00,Bengals,28,13,Oilers
 1978,9,1978-10-29T00:00:00+00:00,Browns,41,20,Bills
@@ -166,7 +166,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1978,12,1978-11-19T00:00:00+00:00,Steelers,7,6,Bengals
 1978,12,1978-11-19T00:00:00+00:00,Vikings,7,13,Chargers
 1978,12,1978-11-20T00:00:00+00:00,Oilers,35,30,Dolphins
-1978,12,1978-11-23T00:00:00+00:00,Lions,17,14,Broncos
+1978,13,1978-11-23T00:00:00+00:00,Cowboys,37,10,Redskins
+1978,13,1978-11-23T00:00:00+00:00,Lions,17,14,Broncos
 1978,13,1978-11-26T00:00:00+00:00,Bears,14,3,Buccaneers
 1978,13,1978-11-26T00:00:00+00:00,Bills,41,17,Giants
 1978,13,1978-11-26T00:00:00+00:00,Browns,30,19,Rams

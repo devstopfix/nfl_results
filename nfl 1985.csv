@@ -13,7 +13,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1985,1,1985-09-08T00:00:00+00:00,Steelers,45,3,Colts
 1985,1,1985-09-08T00:00:00+00:00,Vikings,28,21,49ers
 1985,1,1985-09-09T00:00:00+00:00,Cowboys,44,14,Redskins
-1985,1,1985-09-12T00:00:00+00:00,Chiefs,36,20,Raiders
+1985,2,1985-09-12T00:00:00+00:00,Chiefs,36,20,Raiders
 1985,2,1985-09-15T00:00:00+00:00,49ers,35,16,Falcons
 1985,2,1985-09-15T00:00:00+00:00,Bears,20,7,Patriots
 1985,2,1985-09-15T00:00:00+00:00,Broncos,34,23,Saints
@@ -27,7 +27,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1985,2,1985-09-15T00:00:00+00:00,Packers,23,20,Giants
 1985,2,1985-09-15T00:00:00+00:00,Redskins,16,13,Oilers
 1985,2,1985-09-16T00:00:00+00:00,Browns,17,7,Steelers
-1985,2,1985-09-19T00:00:00+00:00,Vikings,24,33,Bears
+1985,3,1985-09-19T00:00:00+00:00,Vikings,24,33,Bears
 1985,3,1985-09-22T00:00:00+00:00,Bengals,41,44,Chargers
 1985,3,1985-09-22T00:00:00+00:00,Bills,14,17,Patriots
 1985,3,1985-09-22T00:00:00+00:00,Colts,14,6,Lions
@@ -167,7 +167,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1985,12,1985-11-24T00:00:00+00:00,Steelers,23,30,Redskins
 1985,12,1985-11-24T00:00:00+00:00,Vikings,23,30,Saints
 1985,12,1985-11-25T00:00:00+00:00,49ers,19,6,Seahawks
-1985,12,1985-11-28T00:00:00+00:00,Lions,31,20,Jets
+1985,13,1985-11-28T00:00:00+00:00,Cowboys,35,17,Cardinals
+1985,13,1985-11-28T00:00:00+00:00,Lions,31,20,Jets
 1985,13,1985-12-01T00:00:00+00:00,Bengals,45,27,Oilers
 1985,13,1985-12-01T00:00:00+00:00,Chargers,40,7,Bills
 1985,13,1985-12-01T00:00:00+00:00,Colts,31,38,Patriots
@@ -180,6 +181,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1985,13,1985-12-01T00:00:00+00:00,Seahawks,24,6,Chiefs
 1985,13,1985-12-01T00:00:00+00:00,Steelers,23,31,Broncos
 1985,13,1985-12-02T00:00:00+00:00,Dolphins,38,24,Bears
+1985,14,1985-12-05T00:00:00+00:00,Chargers,54,44,Steelers
 1985,14,1985-12-08T00:00:00+00:00,Bears,17,10,Colts
 1985,14,1985-12-08T00:00:00+00:00,Bengals,50,24,Cowboys
 1985,14,1985-12-08T00:00:00+00:00,Bills,7,27,Jets
@@ -193,7 +195,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1985,14,1985-12-08T00:00:00+00:00,Seahawks,31,13,Browns
 1985,14,1985-12-08T00:00:00+00:00,Vikings,26,7,Buccaneers
 1985,14,1985-12-09T00:00:00+00:00,49ers,20,27,Rams
-1985,14,1985-12-14T00:00:00+00:00,Jets,6,19,Bears
+1985,15,1985-12-14T00:00:00+00:00,Broncos,14,13,Chiefs
+1985,15,1985-12-14T00:00:00+00:00,Jets,6,19,Bears
 1985,15,1985-12-15T00:00:00+00:00,Browns,28,21,Oilers
 1985,15,1985-12-15T00:00:00+00:00,Buccaneers,23,31,Colts
 1985,15,1985-12-15T00:00:00+00:00,Chargers,20,14,Eagles
@@ -206,9 +209,9 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1985,15,1985-12-15T00:00:00+00:00,Saints,19,31,49ers
 1985,15,1985-12-15T00:00:00+00:00,Steelers,30,24,Bills
 1985,15,1985-12-16T00:00:00+00:00,Dolphins,30,27,Patriots
-1985,15,1985-12-20T00:00:00+00:00,Seahawks,24,27,Broncos
-1985,15,1985-12-21T00:00:00+00:00,Cardinals,16,27,Redskins
-1985,15,1985-12-21T00:00:00+00:00,Giants,28,10,Steelers
+1985,16,1985-12-20T00:00:00+00:00,Seahawks,24,27,Broncos
+1985,16,1985-12-21T00:00:00+00:00,Cardinals,16,27,Redskins
+1985,16,1985-12-21T00:00:00+00:00,Giants,28,10,Steelers
 1985,16,1985-12-22T00:00:00+00:00,49ers,31,16,Cowboys
 1985,16,1985-12-22T00:00:00+00:00,Buccaneers,17,20,Packers
 1985,16,1985-12-22T00:00:00+00:00,Chiefs,38,34,Chargers
@@ -222,8 +225,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1985,16,1985-12-23T00:00:00+00:00,Rams,6,16,Raiders
 1985,17,1985-12-29T00:00:00+00:00,Giants,17,3,49ers
 1985,17,1985-12-29T00:00:00+00:00,Jets,14,26,Patriots
-1985,17,1986-01-04T00:00:00+00:00,Dolphins,24,21,Browns
-1985,17,1986-01-04T00:00:00+00:00,Rams,20,0,Cowboys
+1985,18,1986-01-04T00:00:00+00:00,Dolphins,24,21,Browns
+1985,18,1986-01-04T00:00:00+00:00,Rams,20,0,Cowboys
 1985,18,1986-01-05T00:00:00+00:00,Bears,21,0,Giants
 1985,18,1986-01-05T00:00:00+00:00,Raiders,20,27,Patriots
 1985,19,1986-01-12T00:00:00+00:00,Bears,24,0,Rams

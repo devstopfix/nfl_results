@@ -1,5 +1,4 @@
 season,week,kickoff,home_team,home_score,visitors_score,visiting_team
-1979,1,1979-09-01T00:00:00+00:00,Buccaneers,31,16,Lions
 1979,1,1979-09-02T00:00:00+00:00,Bears,6,3,Packers
 1979,1,1979-09-02T00:00:00+00:00,Bills,7,9,Dolphins
 1979,1,1979-09-02T00:00:00+00:00,Broncos,10,0,Bengals
@@ -13,6 +12,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1979,1,1979-09-02T00:00:00+00:00,Seahawks,16,33,Chargers
 1979,1,1979-09-02T00:00:00+00:00,Vikings,28,22,49ers
 1979,1,1979-09-03T00:00:00+00:00,Patriots,13,16,Steelers
+1979,2,1979-09-06T00:00:00+00:00,Broncos,9,13,Rams
 1979,2,1979-09-09T00:00:00+00:00,49ers,13,21,Cowboys
 1979,2,1979-09-09T00:00:00+00:00,Bears,26,7,Vikings
 1979,2,1979-09-09T00:00:00+00:00,Bills,51,24,Bengals
@@ -110,7 +110,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1979,8,1979-10-21T00:00:00+00:00,Seahawks,34,14,Oilers
 1979,8,1979-10-21T00:00:00+00:00,Vikings,30,27,Bears
 1979,8,1979-10-22T00:00:00+00:00,Steelers,42,7,Broncos
-1979,8,1979-10-25T00:00:00+00:00,Raiders,45,22,Chargers
+1979,9,1979-10-25T00:00:00+00:00,Raiders,45,22,Chargers
 1979,9,1979-10-28T00:00:00+00:00,49ers,27,28,Bears
 1979,9,1979-10-28T00:00:00+00:00,Bengals,37,13,Eagles
 1979,9,1979-10-28T00:00:00+00:00,Broncos,20,3,Chiefs
@@ -166,8 +166,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1979,12,1979-11-18T00:00:00+00:00,Seahawks,38,24,Saints
 1979,12,1979-11-18T00:00:00+00:00,Vikings,14,7,Lions
 1979,12,1979-11-19T00:00:00+00:00,Rams,20,14,Falcons
-1979,12,1979-11-22T00:00:00+00:00,Cowboys,24,30,Oilers
-1979,12,1979-11-22T00:00:00+00:00,Lions,20,0,Bears
+1979,13,1979-11-22T00:00:00+00:00,Cowboys,24,30,Oilers
+1979,13,1979-11-22T00:00:00+00:00,Lions,20,0,Bears
 1979,13,1979-11-25T00:00:00+00:00,49ers,20,26,Rams
 1979,13,1979-11-25T00:00:00+00:00,Bengals,34,28,Cardinals
 1979,13,1979-11-25T00:00:00+00:00,Broncos,10,14,Raiders
@@ -180,7 +180,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1979,13,1979-11-25T00:00:00+00:00,Patriots,13,16,Bills
 1979,13,1979-11-25T00:00:00+00:00,Steelers,33,30,Browns
 1979,13,1979-11-26T00:00:00+00:00,Seahawks,30,7,Jets
-1979,13,1979-11-29T00:00:00+00:00,Dolphins,39,24,Patriots
+1979,14,1979-11-29T00:00:00+00:00,Dolphins,39,24,Patriots
 1979,14,1979-12-02T00:00:00+00:00,Bills,16,19,Broncos
 1979,14,1979-12-02T00:00:00+00:00,Browns,14,7,Oilers
 1979,14,1979-12-02T00:00:00+00:00,Buccaneers,0,14,Bears

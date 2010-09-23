@@ -1,5 +1,4 @@
 season,week,kickoff,home_team,home_score,visitors_score,visiting_team
-1983,1,1983-09-03T00:00:00+00:00,49ers,17,22,Eagles
 1983,1,1983-09-04T00:00:00+00:00,Bears,17,20,Falcons
 1983,1,1983-09-04T00:00:00+00:00,Bengals,10,20,Raiders
 1983,1,1983-09-04T00:00:00+00:00,Bills,0,12,Dolphins
@@ -13,7 +12,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1983,1,1983-09-04T00:00:00+00:00,Saints,28,17,Cardinals
 1983,1,1983-09-04T00:00:00+00:00,Steelers,10,14,Broncos
 1983,1,1983-09-05T00:00:00+00:00,Redskins,30,31,Cowboys
-1983,1,1983-09-08T00:00:00+00:00,Vikings,17,48,49ers
+1983,2,1983-09-08T00:00:00+00:00,Vikings,17,48,49ers
 1983,2,1983-09-11T00:00:00+00:00,Bears,17,10,Buccaneers
 1983,2,1983-09-11T00:00:00+00:00,Bengals,6,10,Bills
 1983,2,1983-09-11T00:00:00+00:00,Cardinals,17,34,Cowboys
@@ -27,7 +26,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1983,2,1983-09-11T00:00:00+00:00,Raiders,20,6,Oilers
 1983,2,1983-09-11T00:00:00+00:00,Rams,30,27,Saints
 1983,2,1983-09-12T00:00:00+00:00,Chiefs,14,17,Chargers
-1983,2,1983-09-15T00:00:00+00:00,Browns,17,7,Bengals
+1983,3,1983-09-15T00:00:00+00:00,Browns,17,7,Bengals
 1983,3,1983-09-18T00:00:00+00:00,Bills,28,23,Colts
 1983,3,1983-09-18T00:00:00+00:00,Broncos,10,13,Eagles
 1983,3,1983-09-18T00:00:00+00:00,Buccaneers,16,19,Vikings
@@ -167,7 +166,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1983,12,1983-11-20T00:00:00+00:00,Rams,20,42,Redskins
 1983,12,1983-11-20T00:00:00+00:00,Steelers,14,17,Vikings
 1983,12,1983-11-21T00:00:00+00:00,Saints,28,31,Jets
-1983,12,1983-11-24T00:00:00+00:00,Lions,45,3,Steelers
+1983,13,1983-11-24T00:00:00+00:00,Cowboys,35,17,Cardinals
+1983,13,1983-11-24T00:00:00+00:00,Lions,45,3,Steelers
 1983,13,1983-11-27T00:00:00+00:00,Bears,13,3,49ers
 1983,13,1983-11-27T00:00:00+00:00,Browns,41,23,Colts
 1983,13,1983-11-27T00:00:00+00:00,Buccaneers,33,24,Oilers
@@ -180,6 +180,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1983,13,1983-11-27T00:00:00+00:00,Saints,17,16,Vikings
 1983,13,1983-11-27T00:00:00+00:00,Seahawks,51,48,Chiefs
 1983,13,1983-11-28T00:00:00+00:00,Dolphins,38,14,Bengals
+1983,14,1983-12-01T00:00:00+00:00,Chargers,10,42,Raiders
 1983,14,1983-12-04T00:00:00+00:00,49ers,35,21,Buccaneers
 1983,14,1983-12-04T00:00:00+00:00,Broncos,27,6,Browns
 1983,14,1983-12-04T00:00:00+00:00,Chiefs,9,14,Bills
@@ -207,6 +208,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1983,15,1983-12-11T00:00:00+00:00,Rams,7,21,Patriots
 1983,15,1983-12-11T00:00:00+00:00,Vikings,13,19,Bears
 1983,15,1983-12-12T00:00:00+00:00,Buccaneers,9,12,Packers
+1983,16,1983-12-16T00:00:00+00:00,Dolphins,34,14,Jets
 1983,16,1983-12-17T00:00:00+00:00,Redskins,31,22,Giants
 1983,16,1983-12-17T00:00:00+00:00,Vikings,20,14,Bengals
 1983,16,1983-12-18T00:00:00+00:00,Bears,23,21,Packers

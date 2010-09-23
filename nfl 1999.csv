@@ -85,7 +85,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1999,6,1999-10-17T00:00:00+00:00,Patriots,30,31,Dolphins
 1999,6,1999-10-17T00:00:00+00:00,Saints,21,24,Titans
 1999,6,1999-10-18T00:00:00+00:00,Giants,13,10,Cowboys
-1999,6,1999-10-21T00:00:00+00:00,Ravens,8,35,Chiefs
+1999,7,1999-10-21T00:00:00+00:00,Ravens,8,35,Chiefs
 1999,7,1999-10-24T00:00:00+00:00,Buccaneers,6,3,Bears
 1999,7,1999-10-24T00:00:00+00:00,Chargers,3,31,Packers
 1999,7,1999-10-24T00:00:00+00:00,Colts,31,10,Bengals
@@ -157,8 +157,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1999,11,1999-11-21T00:00:00+00:00,Redskins,23,13,Giants
 1999,11,1999-11-21T00:00:00+00:00,Titans,16,10,Steelers
 1999,11,1999-11-22T00:00:00+00:00,Broncos,27,21,Raiders
-1999,11,1999-11-25T00:00:00+00:00,Cowboys,20,0,Dolphins
-1999,11,1999-11-25T00:00:00+00:00,Lions,21,17,Bears
+1999,12,1999-11-25T00:00:00+00:00,Cowboys,20,0,Dolphins
+1999,12,1999-11-25T00:00:00+00:00,Lions,21,17,Bears
 1999,12,1999-11-28T00:00:00+00:00,Bills,17,7,Patriots
 1999,12,1999-11-28T00:00:00+00:00,Browns,21,33,Titans
 1999,12,1999-11-28T00:00:00+00:00,Colts,13,6,Jets
@@ -172,7 +172,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1999,12,1999-11-28T00:00:00+00:00,Steelers,20,27,Bengals
 1999,12,1999-11-28T00:00:00+00:00,Vikings,35,27,Chargers
 1999,12,1999-11-29T00:00:00+00:00,49ers,3,20,Packers
-1999,12,1999-12-02T00:00:00+00:00,Jaguars,20,6,Steelers
+1999,13,1999-12-02T00:00:00+00:00,Jaguars,20,6,Steelers
 1999,13,1999-12-05T00:00:00+00:00,Bears,19,35,Packers
 1999,13,1999-12-05T00:00:00+00:00,Bengals,44,30,49ers
 1999,13,1999-12-05T00:00:00+00:00,Broncos,10,16,Chiefs
@@ -187,7 +187,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1999,13,1999-12-05T00:00:00+00:00,Raiders,30,21,Seahawks
 1999,13,1999-12-05T00:00:00+00:00,Ravens,41,14,Titans
 1999,13,1999-12-06T00:00:00+00:00,Buccaneers,24,17,Vikings
-1999,13,1999-12-09T00:00:00+00:00,Titans,21,14,Raiders
+1999,14,1999-12-09T00:00:00+00:00,Titans,21,14,Raiders
 1999,14,1999-12-12T00:00:00+00:00,49ers,26,7,Falcons
 1999,14,1999-12-12T00:00:00+00:00,Bengals,44,28,Browns
 1999,14,1999-12-12T00:00:00+00:00,Bills,17,19,Giants
@@ -202,7 +202,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1999,14,1999-12-12T00:00:00+00:00,Seahawks,16,19,Chargers
 1999,14,1999-12-12T00:00:00+00:00,Steelers,24,31,Ravens
 1999,14,1999-12-13T00:00:00+00:00,Jaguars,27,24,Broncos
-1999,14,1999-12-18T00:00:00+00:00,Panthers,41,24,49ers
+1999,15,1999-12-18T00:00:00+00:00,Chiefs,35,19,Steelers
+1999,15,1999-12-18T00:00:00+00:00,Panthers,41,24,49ers
 1999,15,1999-12-19T00:00:00+00:00,Bears,28,10,Lions
 1999,15,1999-12-19T00:00:00+00:00,Broncos,36,30,Seahawks
 1999,15,1999-12-19T00:00:00+00:00,Browns,14,24,Jaguars
@@ -216,8 +217,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1999,15,1999-12-19T00:00:00+00:00,Ravens,31,8,Saints
 1999,15,1999-12-19T00:00:00+00:00,Titans,30,17,Falcons
 1999,15,1999-12-20T00:00:00+00:00,Vikings,24,20,Packers
-1999,15,1999-12-24T00:00:00+00:00,Saints,31,24,Cowboys
-1999,15,1999-12-25T00:00:00+00:00,Lions,7,17,Broncos
+1999,16,1999-12-24T00:00:00+00:00,Saints,31,24,Cowboys
+1999,16,1999-12-25T00:00:00+00:00,Lions,7,17,Broncos
 1999,16,1999-12-26T00:00:00+00:00,49ers,20,26,Redskins
 1999,16,1999-12-26T00:00:00+00:00,Browns,28,29,Colts
 1999,16,1999-12-26T00:00:00+00:00,Buccaneers,29,10,Packers
@@ -246,11 +247,12 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1999,17,2000-01-02T00:00:00+00:00,Steelers,36,47,Titans
 1999,17,2000-01-02T00:00:00+00:00,Vikings,24,17,Lions
 1999,17,2000-01-03T00:00:00+00:00,Falcons,34,29,49ers
-1999,17,2000-01-08T00:00:00+00:00,Titans,22,16,Bills
+1999,18,2000-01-08T00:00:00+00:00,Redskins,27,13,Lions
+1999,18,2000-01-08T00:00:00+00:00,Titans,22,16,Bills
 1999,18,2000-01-09T00:00:00+00:00,Seahawks,17,20,Dolphins
 1999,18,2000-01-09T00:00:00+00:00,Vikings,27,10,Cowboys
-1999,18,2000-01-15T00:00:00+00:00,Buccaneers,14,13,Redskins
-1999,18,2000-01-15T00:00:00+00:00,Jaguars,62,7,Dolphins
+1999,19,2000-01-15T00:00:00+00:00,Buccaneers,14,13,Redskins
+1999,19,2000-01-15T00:00:00+00:00,Jaguars,62,7,Dolphins
 1999,19,2000-01-16T00:00:00+00:00,Colts,16,19,Titans
 1999,19,2000-01-16T00:00:00+00:00,Rams,49,37,Vikings
 1999,20,2000-01-23T00:00:00+00:00,Jaguars,14,33,Titans

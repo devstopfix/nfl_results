@@ -77,7 +77,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1990,6,1990-10-14T00:00:00+00:00,Redskins,20,24,Giants
 1990,6,1990-10-14T00:00:00+00:00,Saints,25,20,Browns
 1990,6,1990-10-15T00:00:00+00:00,Eagles,32,24,Vikings
-1990,6,1990-10-18T00:00:00+00:00,Dolphins,17,10,Patriots
+1990,7,1990-10-18T00:00:00+00:00,Dolphins,17,10,Patriots
 1990,7,1990-10-21T00:00:00+00:00,49ers,27,7,Steelers
 1990,7,1990-10-21T00:00:00+00:00,Bills,30,27,Jets
 1990,7,1990-10-21T00:00:00+00:00,Buccaneers,13,17,Cowboys
@@ -141,8 +141,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1990,11,1990-11-18T00:00:00+00:00,Redskins,31,17,Saints
 1990,11,1990-11-18T00:00:00+00:00,Seahawks,21,24,Vikings
 1990,11,1990-11-19T00:00:00+00:00,Dolphins,10,13,Raiders
-1990,11,1990-11-22T00:00:00+00:00,Cowboys,27,17,Redskins
-1990,11,1990-11-22T00:00:00+00:00,Lions,40,27,Broncos
+1990,12,1990-11-22T00:00:00+00:00,Cowboys,27,17,Redskins
+1990,12,1990-11-22T00:00:00+00:00,Lions,40,27,Broncos
 1990,12,1990-11-25T00:00:00+00:00,49ers,17,28,Rams
 1990,12,1990-11-25T00:00:00+00:00,Bengals,20,34,Colts
 1990,12,1990-11-25T00:00:00+00:00,Browns,13,30,Dolphins
@@ -181,7 +181,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1990,14,1990-12-09T00:00:00+00:00,Redskins,10,9,Bears
 1990,14,1990-12-09T00:00:00+00:00,Steelers,24,3,Patriots
 1990,14,1990-12-10T00:00:00+00:00,Lions,31,38,Raiders
-1990,14,1990-12-15T00:00:00+00:00,Patriots,10,25,Redskins
+1990,15,1990-12-15T00:00:00+00:00,Giants,13,17,Bills
+1990,15,1990-12-15T00:00:00+00:00,Patriots,10,25,Redskins
 1990,15,1990-12-16T00:00:00+00:00,Broncos,20,10,Chargers
 1990,15,1990-12-16T00:00:00+00:00,Browns,13,10,Falcons
 1990,15,1990-12-16T00:00:00+00:00,Buccaneers,26,13,Vikings
@@ -194,9 +195,9 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1990,15,1990-12-16T00:00:00+00:00,Raiders,24,7,Bengals
 1990,15,1990-12-16T00:00:00+00:00,Saints,6,9,Steelers
 1990,15,1990-12-17T00:00:00+00:00,Rams,10,26,49ers
-1990,15,1990-12-22T00:00:00+00:00,Colts,35,28,Redskins
-1990,15,1990-12-22T00:00:00+00:00,Packers,17,24,Lions
-1990,15,1990-12-22T00:00:00+00:00,Vikings,24,28,Raiders
+1990,16,1990-12-22T00:00:00+00:00,Colts,35,28,Redskins
+1990,16,1990-12-22T00:00:00+00:00,Packers,17,24,Lions
+1990,16,1990-12-22T00:00:00+00:00,Vikings,24,28,Raiders
 1990,16,1990-12-23T00:00:00+00:00,49ers,10,13,Saints
 1990,16,1990-12-23T00:00:00+00:00,Bears,27,14,Buccaneers
 1990,16,1990-12-23T00:00:00+00:00,Bengals,40,20,Oilers
@@ -208,6 +209,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1990,16,1990-12-23T00:00:00+00:00,Jets,42,7,Patriots
 1990,16,1990-12-23T00:00:00+00:00,Seahawks,17,12,Broncos
 1990,16,1990-12-23T00:00:00+00:00,Steelers,35,0,Browns
+1990,17,1990-12-29T00:00:00+00:00,Bears,10,21,Chiefs
+1990,17,1990-12-29T00:00:00+00:00,Cardinals,21,23,Eagles
 1990,17,1990-12-30T00:00:00+00:00,Bengals,21,14,Browns
 1990,17,1990-12-30T00:00:00+00:00,Broncos,22,13,Packers
 1990,17,1990-12-30T00:00:00+00:00,Buccaneers,14,16,Jets
@@ -220,11 +223,12 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1990,17,1990-12-30T00:00:00+00:00,Seahawks,30,10,Lions
 1990,17,1990-12-30T00:00:00+00:00,Vikings,17,20,49ers
 1990,17,1990-12-31T00:00:00+00:00,Saints,20,17,Rams
-1990,17,1991-01-05T00:00:00+00:00,Eagles,6,20,Redskins
+1990,18,1991-01-05T00:00:00+00:00,Dolphins,17,16,Chiefs
+1990,18,1991-01-05T00:00:00+00:00,Eagles,6,20,Redskins
 1990,18,1991-01-06T00:00:00+00:00,Bears,16,6,Saints
 1990,18,1991-01-06T00:00:00+00:00,Bengals,41,14,Oilers
-1990,18,1991-01-12T00:00:00+00:00,49ers,28,10,Redskins
-1990,18,1991-01-12T00:00:00+00:00,Bills,44,34,Dolphins
+1990,19,1991-01-12T00:00:00+00:00,49ers,28,10,Redskins
+1990,19,1991-01-12T00:00:00+00:00,Bills,44,34,Dolphins
 1990,19,1991-01-13T00:00:00+00:00,Giants,31,3,Bears
 1990,19,1991-01-13T00:00:00+00:00,Raiders,20,10,Bengals
 1990,20,1991-01-20T00:00:00+00:00,49ers,13,15,Giants

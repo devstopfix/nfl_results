@@ -71,7 +71,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 2001,6,2001-10-14T00:00:00+00:00,Titans,31,28,Buccaneers
 2001,6,2001-10-14T00:00:00+00:00,Vikings,31,26,Lions
 2001,6,2001-10-15T00:00:00+00:00,Cowboys,9,7,Redskins
-2001,6,2001-10-18T00:00:00+00:00,Jaguars,10,13,Bills
+2001,7,2001-10-18T00:00:00+00:00,Jaguars,10,13,Bills
 2001,7,2001-10-21T00:00:00+00:00,Bengals,0,24,Bears
 2001,7,2001-10-21T00:00:00+00:00,Browns,24,14,Ravens
 2001,7,2001-10-21T00:00:00+00:00,Buccaneers,10,17,Steelers
@@ -84,7 +84,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 2001,7,2001-10-21T00:00:00+00:00,Saints,13,20,Falcons
 2001,7,2001-10-21T00:00:00+00:00,Vikings,35,13,Packers
 2001,7,2001-10-22T00:00:00+00:00,Giants,9,10,Eagles
-2001,7,2001-10-25T00:00:00+00:00,Chiefs,28,35,Colts
+2001,8,2001-10-25T00:00:00+00:00,Chiefs,28,35,Colts
 2001,8,2001-10-28T00:00:00+00:00,Bears,37,31,49ers
 2001,8,2001-10-28T00:00:00+00:00,Broncos,31,20,Patriots
 2001,8,2001-10-28T00:00:00+00:00,Buccaneers,41,14,Vikings
@@ -142,7 +142,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 2001,11,2001-11-18T00:00:00+00:00,Saints,34,20,Colts
 2001,11,2001-11-18T00:00:00+00:00,Steelers,20,7,Jaguars
 2001,11,2001-11-19T00:00:00+00:00,Vikings,28,16,Giants
-2001,11,2001-11-22T00:00:00+00:00,Lions,27,29,Packers
+2001,12,2001-11-22T00:00:00+00:00,Cowboys,24,26,Broncos
+2001,12,2001-11-22T00:00:00+00:00,Lions,27,29,Packers
 2001,12,2001-11-25T00:00:00+00:00,Bills,27,34,Dolphins
 2001,12,2001-11-25T00:00:00+00:00,Browns,18,0,Bengals
 2001,12,2001-11-25T00:00:00+00:00,Chargers,17,20,Cardinals
@@ -156,6 +157,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 2001,12,2001-11-25T00:00:00+00:00,Titans,24,34,Steelers
 2001,12,2001-11-25T00:00:00+00:00,Vikings,6,13,Bears
 2001,12,2001-11-26T00:00:00+00:00,Rams,17,24,Buccaneers
+2001,13,2001-11-29T00:00:00+00:00,Chiefs,10,23,Eagles
 2001,13,2001-12-02T00:00:00+00:00,49ers,35,0,Bills
 2001,13,2001-12-02T00:00:00+00:00,Bears,13,10,Lions
 2001,13,2001-12-02T00:00:00+00:00,Bengals,13,16,Buccaneers
@@ -185,8 +187,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 2001,14,2001-12-09T00:00:00+00:00,Steelers,18,7,Jets
 2001,14,2001-12-09T00:00:00+00:00,Vikings,42,24,Titans
 2001,14,2001-12-10T00:00:00+00:00,Dolphins,41,6,Colts
-2001,14,2001-12-15T00:00:00+00:00,Chargers,6,13,Raiders
-2001,14,2001-12-15T00:00:00+00:00,Giants,17,13,Cardinals
+2001,15,2001-12-15T00:00:00+00:00,Chargers,6,13,Raiders
+2001,15,2001-12-15T00:00:00+00:00,Giants,17,13,Cardinals
 2001,15,2001-12-16T00:00:00+00:00,49ers,21,0,Dolphins
 2001,15,2001-12-16T00:00:00+00:00,Bears,27,3,Buccaneers
 2001,15,2001-12-16T00:00:00+00:00,Bills,9,12,Patriots
@@ -200,8 +202,9 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 2001,15,2001-12-16T00:00:00+00:00,Seahawks,29,3,Cowboys
 2001,15,2001-12-16T00:00:00+00:00,Titans,26,20,Packers
 2001,15,2001-12-17T00:00:00+00:00,Saints,21,34,Rams
-2001,15,2001-12-22T00:00:00+00:00,Patriots,20,13,Dolphins
-2001,15,2001-12-22T00:00:00+00:00,Raiders,10,13,Titans
+2001,16,2001-12-22T00:00:00+00:00,49ers,13,3,Eagles
+2001,16,2001-12-22T00:00:00+00:00,Patriots,20,13,Dolphins
+2001,16,2001-12-22T00:00:00+00:00,Raiders,10,13,Titans
 2001,16,2001-12-23T00:00:00+00:00,Buccaneers,48,21,Saints
 2001,16,2001-12-23T00:00:00+00:00,Cardinals,17,10,Cowboys
 2001,16,2001-12-23T00:00:00+00:00,Chiefs,20,17,Chargers
@@ -214,6 +217,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 2001,16,2001-12-23T00:00:00+00:00,Redskins,15,20,Bears
 2001,16,2001-12-23T00:00:00+00:00,Steelers,47,14,Lions
 2001,16,2001-12-23T00:00:00+00:00,Vikings,3,33,Jaguars
+2001,17,2001-12-29T00:00:00+00:00,Buccaneers,22,10,Ravens
 2001,17,2001-12-30T00:00:00+00:00,Bengals,26,23,Steelers
 2001,17,2001-12-30T00:00:00+00:00,Broncos,23,17,Raiders
 2001,17,2001-12-30T00:00:00+00:00,Chargers,22,25,Seahawks
@@ -243,11 +247,12 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 2001,18,2002-01-06T00:00:00+00:00,Steelers,28,7,Browns
 2001,18,2002-01-06T00:00:00+00:00,Titans,21,23,Bengals
 2001,18,2002-01-07T00:00:00+00:00,Ravens,19,3,Vikings
-2001,18,2002-01-12T00:00:00+00:00,Eagles,31,9,Buccaneers
+2001,19,2002-01-12T00:00:00+00:00,Eagles,31,9,Buccaneers
+2001,19,2002-01-12T00:00:00+00:00,Raiders,38,24,Jets
 2001,19,2002-01-13T00:00:00+00:00,Dolphins,3,20,Ravens
 2001,19,2002-01-13T00:00:00+00:00,Packers,25,15,49ers
-2001,19,2002-01-19T00:00:00+00:00,Bears,19,33,Eagles
-2001,19,2002-01-19T00:00:00+00:00,Patriots,16,13,Raiders
+2001,20,2002-01-19T00:00:00+00:00,Bears,19,33,Eagles
+2001,20,2002-01-19T00:00:00+00:00,Patriots,16,13,Raiders
 2001,20,2002-01-20T00:00:00+00:00,Rams,45,17,Packers
 2001,20,2002-01-20T00:00:00+00:00,Steelers,27,10,Ravens
 2001,21,2002-01-27T00:00:00+00:00,Rams,29,24,Eagles

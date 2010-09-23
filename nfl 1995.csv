@@ -82,7 +82,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1995,6,1995-10-08T00:00:00+00:00,Raiders,34,14,Seahawks
 1995,6,1995-10-08T00:00:00+00:00,Vikings,23,17,Oilers
 1995,6,1995-10-09T00:00:00+00:00,Chiefs,29,23,Chargers
-1995,6,1995-10-12T00:00:00+00:00,Rams,21,19,Falcons
+1995,7,1995-10-12T00:00:00+00:00,Rams,21,19,Falcons
 1995,7,1995-10-15T00:00:00+00:00,Bills,27,21,Seahawks
 1995,7,1995-10-15T00:00:00+00:00,Buccaneers,20,17,Vikings
 1995,7,1995-10-15T00:00:00+00:00,Cardinals,24,20,Redskins
@@ -95,7 +95,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1995,7,1995-10-15T00:00:00+00:00,Panthers,26,15,Jets
 1995,7,1995-10-15T00:00:00+00:00,Saints,33,30,Dolphins
 1995,7,1995-10-16T00:00:00+00:00,Broncos,27,0,Raiders
-1995,7,1995-10-19T00:00:00+00:00,Steelers,9,27,Bengals
+1995,8,1995-10-19T00:00:00+00:00,Steelers,9,27,Bengals
 1995,8,1995-10-22T00:00:00+00:00,Bears,35,32,Oilers
 1995,8,1995-10-22T00:00:00+00:00,Broncos,7,21,Chiefs
 1995,8,1995-10-22T00:00:00+00:00,Browns,15,23,Jaguars
@@ -164,8 +164,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1995,12,1995-11-19T00:00:00+00:00,Redskins,20,27,Seahawks
 1995,12,1995-11-19T00:00:00+00:00,Vikings,43,24,Saints
 1995,12,1995-11-20T00:00:00+00:00,Dolphins,20,44,49ers
-1995,12,1995-11-23T00:00:00+00:00,Cowboys,24,12,Chiefs
-1995,12,1995-11-23T00:00:00+00:00,Lions,44,38,Vikings
+1995,13,1995-11-23T00:00:00+00:00,Cowboys,24,12,Chiefs
+1995,13,1995-11-23T00:00:00+00:00,Lions,44,38,Vikings
 1995,13,1995-11-26T00:00:00+00:00,49ers,41,13,Rams
 1995,13,1995-11-26T00:00:00+00:00,Bills,25,35,Patriots
 1995,13,1995-11-26T00:00:00+00:00,Browns,17,20,Steelers
@@ -179,6 +179,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1995,13,1995-11-26T00:00:00+00:00,Saints,34,26,Panthers
 1995,13,1995-11-26T00:00:00+00:00,Seahawks,10,16,Jets
 1995,13,1995-11-27T00:00:00+00:00,Chargers,12,6,Raiders
+1995,14,1995-11-30T00:00:00+00:00,Cardinals,6,10,Giants
 1995,14,1995-12-03T00:00:00+00:00,49ers,27,17,Bills
 1995,14,1995-12-03T00:00:00+00:00,Broncos,31,23,Jaguars
 1995,14,1995-12-03T00:00:00+00:00,Chargers,31,13,Browns
@@ -193,6 +194,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1995,14,1995-12-03T00:00:00+00:00,Steelers,21,7,Oilers
 1995,14,1995-12-03T00:00:00+00:00,Vikings,31,17,Buccaneers
 1995,14,1995-12-04T00:00:00+00:00,Lions,27,7,Bears
+1995,15,1995-12-09T00:00:00+00:00,Chargers,28,25,Cardinals
+1995,15,1995-12-09T00:00:00+00:00,Vikings,27,11,Browns
 1995,15,1995-12-10T00:00:00+00:00,Bengals,16,10,Bears
 1995,15,1995-12-10T00:00:00+00:00,Broncos,27,31,Seahawks
 1995,15,1995-12-10T00:00:00+00:00,Buccaneers,13,10,Packers
@@ -206,8 +209,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1995,15,1995-12-10T00:00:00+00:00,Raiders,10,29,Steelers
 1995,15,1995-12-10T00:00:00+00:00,Rams,27,45,Bills
 1995,15,1995-12-11T00:00:00+00:00,Dolphins,13,6,Chiefs
-1995,15,1995-12-16T00:00:00+00:00,Saints,23,34,Packers
-1995,15,1995-12-16T00:00:00+00:00,Steelers,41,27,Patriots
+1995,16,1995-12-16T00:00:00+00:00,Saints,23,34,Packers
+1995,16,1995-12-16T00:00:00+00:00,Steelers,41,27,Patriots
 1995,16,1995-12-17T00:00:00+00:00,Bears,31,10,Buccaneers
 1995,16,1995-12-17T00:00:00+00:00,Bills,23,20,Dolphins
 1995,16,1995-12-17T00:00:00+00:00,Browns,26,10,Bengals
@@ -221,8 +224,9 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1995,16,1995-12-17T00:00:00+00:00,Rams,23,35,Redskins
 1995,16,1995-12-17T00:00:00+00:00,Seahawks,44,10,Raiders
 1995,16,1995-12-18T00:00:00+00:00,49ers,37,30,Vikings
-1995,16,1995-12-23T00:00:00+00:00,Buccaneers,10,37,Lions
-1995,16,1995-12-23T00:00:00+00:00,Giants,17,27,Chargers
+1995,17,1995-12-23T00:00:00+00:00,Buccaneers,10,37,Lions
+1995,17,1995-12-23T00:00:00+00:00,Colts,10,7,Patriots
+1995,17,1995-12-23T00:00:00+00:00,Giants,17,27,Chargers
 1995,17,1995-12-24T00:00:00+00:00,Bears,20,14,Eagles
 1995,17,1995-12-24T00:00:00+00:00,Bengals,27,24,Vikings
 1995,17,1995-12-24T00:00:00+00:00,Bills,17,28,Oilers
@@ -235,11 +239,12 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1995,17,1995-12-24T00:00:00+00:00,Rams,22,41,Dolphins
 1995,17,1995-12-24T00:00:00+00:00,Redskins,20,17,Panthers
 1995,17,1995-12-25T00:00:00+00:00,Cardinals,13,37,Cowboys
-1995,17,1995-12-30T00:00:00+00:00,Eagles,58,37,Lions
+1995,18,1995-12-30T00:00:00+00:00,Bills,37,22,Dolphins
+1995,18,1995-12-30T00:00:00+00:00,Eagles,58,37,Lions
 1995,18,1995-12-31T00:00:00+00:00,Chargers,20,35,Colts
 1995,18,1995-12-31T00:00:00+00:00,Packers,37,20,Falcons
-1995,18,1996-01-06T00:00:00+00:00,49ers,17,27,Packers
-1995,18,1996-01-06T00:00:00+00:00,Steelers,40,21,Bills
+1995,19,1996-01-06T00:00:00+00:00,49ers,17,27,Packers
+1995,19,1996-01-06T00:00:00+00:00,Steelers,40,21,Bills
 1995,19,1996-01-07T00:00:00+00:00,Chiefs,7,10,Colts
 1995,19,1996-01-07T00:00:00+00:00,Cowboys,30,11,Eagles
 1995,20,1996-01-14T00:00:00+00:00,Cowboys,38,27,Packers

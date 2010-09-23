@@ -74,7 +74,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1992,6,1992-10-11T00:00:00+00:00,Raiders,20,3,Bills
 1992,6,1992-10-11T00:00:00+00:00,Saints,13,10,Rams
 1992,6,1992-10-12T00:00:00+00:00,Redskins,34,3,Broncos
-1992,6,1992-10-15T00:00:00+00:00,Vikings,31,14,Lions
+1992,7,1992-10-15T00:00:00+00:00,Vikings,31,14,Lions
 1992,7,1992-10-18T00:00:00+00:00,49ers,56,17,Falcons
 1992,7,1992-10-18T00:00:00+00:00,Bears,31,14,Buccaneers
 1992,7,1992-10-18T00:00:00+00:00,Broncos,27,21,Oilers
@@ -153,8 +153,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1992,12,1992-11-22T00:00:00+00:00,Steelers,30,14,Colts
 1992,12,1992-11-22T00:00:00+00:00,Vikings,17,13,Browns
 1992,12,1992-11-23T00:00:00+00:00,Saints,20,3,Redskins
-1992,12,1992-11-26T00:00:00+00:00,Cowboys,30,3,Giants
-1992,12,1992-11-26T00:00:00+00:00,Lions,21,24,Oilers
+1992,13,1992-11-26T00:00:00+00:00,Cowboys,30,3,Giants
+1992,13,1992-11-26T00:00:00+00:00,Lions,21,24,Oilers
 1992,13,1992-11-29T00:00:00+00:00,49ers,20,14,Eagles
 1992,13,1992-11-29T00:00:00+00:00,Bengals,9,21,Steelers
 1992,13,1992-11-29T00:00:00+00:00,Browns,27,14,Bears
@@ -167,6 +167,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1992,13,1992-11-29T00:00:00+00:00,Redskins,41,3,Cardinals
 1992,13,1992-11-29T00:00:00+00:00,Saints,24,13,Dolphins
 1992,13,1992-11-30T00:00:00+00:00,Seahawks,16,13,Broncos
+1992,14,1992-12-03T00:00:00+00:00,Saints,22,14,Falcons
 1992,14,1992-12-06T00:00:00+00:00,49ers,27,3,Dolphins
 1992,14,1992-12-06T00:00:00+00:00,Bills,17,24,Jets
 1992,14,1992-12-06T00:00:00+00:00,Broncos,27,31,Cowboys
@@ -180,6 +181,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1992,14,1992-12-06T00:00:00+00:00,Raiders,28,7,Chiefs
 1992,14,1992-12-06T00:00:00+00:00,Steelers,20,14,Seahawks
 1992,14,1992-12-07T00:00:00+00:00,Oilers,24,7,Bears
+1992,15,1992-12-12T00:00:00+00:00,Bills,27,17,Broncos
+1992,15,1992-12-12T00:00:00+00:00,Cardinals,19,0,Giants
 1992,15,1992-12-13T00:00:00+00:00,Bears,30,6,Steelers
 1992,15,1992-12-13T00:00:00+00:00,Buccaneers,7,35,Falcons
 1992,15,1992-12-13T00:00:00+00:00,Chargers,27,10,Bengals
@@ -192,8 +195,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1992,15,1992-12-13T00:00:00+00:00,Seahawks,17,20,Eagles
 1992,15,1992-12-13T00:00:00+00:00,Vikings,17,20,49ers
 1992,15,1992-12-14T00:00:00+00:00,Dolphins,20,7,Raiders
-1992,15,1992-12-19T00:00:00+00:00,49ers,21,14,Buccaneers
-1992,15,1992-12-19T00:00:00+00:00,Giants,35,21,Chiefs
+1992,16,1992-12-19T00:00:00+00:00,49ers,21,14,Buccaneers
+1992,16,1992-12-19T00:00:00+00:00,Giants,35,21,Chiefs
 1992,16,1992-12-20T00:00:00+00:00,Bengals,20,10,Patriots
 1992,16,1992-12-20T00:00:00+00:00,Broncos,10,6,Seahawks
 1992,16,1992-12-20T00:00:00+00:00,Browns,14,17,Oilers
@@ -206,8 +209,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1992,16,1992-12-20T00:00:00+00:00,Saints,16,20,Bills
 1992,16,1992-12-20T00:00:00+00:00,Steelers,3,6,Vikings
 1992,16,1992-12-21T00:00:00+00:00,Falcons,17,41,Cowboys
-1992,16,1992-12-26T00:00:00+00:00,Jets,0,20,Saints
-1992,16,1992-12-26T00:00:00+00:00,Redskins,20,21,Raiders
+1992,17,1992-12-26T00:00:00+00:00,Jets,0,20,Saints
+1992,17,1992-12-26T00:00:00+00:00,Redskins,20,21,Raiders
 1992,17,1992-12-27T00:00:00+00:00,Bengals,17,21,Colts
 1992,17,1992-12-27T00:00:00+00:00,Cardinals,3,7,Buccaneers
 1992,17,1992-12-27T00:00:00+00:00,Chiefs,42,20,Broncos
@@ -220,11 +223,12 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1992,17,1992-12-27T00:00:00+00:00,Steelers,23,13,Browns
 1992,17,1992-12-27T00:00:00+00:00,Vikings,27,7,Packers
 1992,17,1992-12-28T00:00:00+00:00,49ers,24,6,Lions
-1992,17,1993-01-02T00:00:00+00:00,Chargers,17,0,Chiefs
+1992,18,1993-01-02T00:00:00+00:00,Chargers,17,0,Chiefs
+1992,18,1993-01-02T00:00:00+00:00,Vikings,7,24,Redskins
 1992,18,1993-01-03T00:00:00+00:00,Bills,41,38,Oilers
 1992,18,1993-01-03T00:00:00+00:00,Saints,20,36,Eagles
-1992,18,1993-01-09T00:00:00+00:00,49ers,20,13,Redskins
-1992,18,1993-01-09T00:00:00+00:00,Steelers,3,24,Bills
+1992,19,1993-01-09T00:00:00+00:00,49ers,20,13,Redskins
+1992,19,1993-01-09T00:00:00+00:00,Steelers,3,24,Bills
 1992,19,1993-01-10T00:00:00+00:00,Cowboys,34,10,Eagles
 1992,19,1993-01-10T00:00:00+00:00,Dolphins,31,0,Chargers
 1992,20,1993-01-17T00:00:00+00:00,49ers,20,30,Cowboys

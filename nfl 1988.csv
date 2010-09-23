@@ -167,7 +167,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1988,12,1988-11-20T00:00:00+00:00,Saints,42,0,Broncos
 1988,12,1988-11-20T00:00:00+00:00,Vikings,12,3,Colts
 1988,12,1988-11-21T00:00:00+00:00,49ers,37,21,Redskins
-1988,12,1988-11-24T00:00:00+00:00,Lions,0,23,Vikings
+1988,13,1988-11-24T00:00:00+00:00,Cowboys,17,25,Oilers
+1988,13,1988-11-24T00:00:00+00:00,Lions,0,23,Vikings
 1988,13,1988-11-27T00:00:00+00:00,Bears,16,0,Packers
 1988,13,1988-11-27T00:00:00+00:00,Bengals,35,21,Bills
 1988,13,1988-11-27T00:00:00+00:00,Broncos,35,17,Rams
@@ -194,8 +195,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1988,14,1988-12-04T00:00:00+00:00,Raiders,21,20,Broncos
 1988,14,1988-12-04T00:00:00+00:00,Vikings,45,3,Saints
 1988,14,1988-12-05T00:00:00+00:00,Rams,23,3,Bears
-1988,14,1988-12-10T00:00:00+00:00,Cardinals,17,23,Eagles
-1988,14,1988-12-10T00:00:00+00:00,Jets,34,16,Colts
+1988,15,1988-12-10T00:00:00+00:00,Cardinals,17,23,Eagles
+1988,15,1988-12-10T00:00:00+00:00,Jets,34,16,Colts
 1988,15,1988-12-11T00:00:00+00:00,49ers,30,17,Saints
 1988,15,1988-12-11T00:00:00+00:00,Bears,13,12,Lions
 1988,15,1988-12-11T00:00:00+00:00,Bills,37,21,Raiders
@@ -208,8 +209,8 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1988,15,1988-12-11T00:00:00+00:00,Redskins,17,24,Cowboys
 1988,15,1988-12-11T00:00:00+00:00,Seahawks,42,14,Broncos
 1988,15,1988-12-12T00:00:00+00:00,Dolphins,38,31,Browns
-1988,15,1988-12-17T00:00:00+00:00,Bengals,20,17,Redskins
-1988,15,1988-12-17T00:00:00+00:00,Broncos,21,10,Patriots
+1988,16,1988-12-17T00:00:00+00:00,Bengals,20,17,Redskins
+1988,16,1988-12-17T00:00:00+00:00,Broncos,21,10,Patriots
 1988,16,1988-12-18T00:00:00+00:00,49ers,16,38,Rams
 1988,16,1988-12-18T00:00:00+00:00,Browns,28,23,Oilers
 1988,16,1988-12-18T00:00:00+00:00,Buccaneers,21,10,Lions
@@ -222,9 +223,10 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 1988,16,1988-12-18T00:00:00+00:00,Saints,10,9,Falcons
 1988,16,1988-12-18T00:00:00+00:00,Steelers,40,24,Dolphins
 1988,16,1988-12-19T00:00:00+00:00,Vikings,28,27,Bears
+1988,17,1988-12-24T00:00:00+00:00,Browns,23,24,Oilers
 1988,17,1988-12-26T00:00:00+00:00,Vikings,28,17,Rams
-1988,17,1988-12-31T00:00:00+00:00,Bears,20,12,Eagles
-1988,17,1988-12-31T00:00:00+00:00,Bengals,21,13,Seahawks
+1988,18,1988-12-31T00:00:00+00:00,Bears,20,12,Eagles
+1988,18,1988-12-31T00:00:00+00:00,Bengals,21,13,Seahawks
 1988,18,1989-01-01T00:00:00+00:00,49ers,34,9,Vikings
 1988,18,1989-01-01T00:00:00+00:00,Bills,17,10,Oilers
 1988,19,1989-01-08T00:00:00+00:00,Bears,3,28,49ers
