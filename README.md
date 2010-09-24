@@ -30,12 +30,8 @@ I am merging multiple datasets and working through the combined data set to ensu
 
 These teams are missing some home games:
 
-		2002|Giants|7
-		2003|Redskins|7
 		2005|Saints|7
-		2006|Steelers|7
 		2008|Saints|7
-		2009|Steelers|7
 
 		select season, home_team, count(*) 
 		from Game 
@@ -45,13 +41,7 @@ These teams are missing some home games:
     
 These teams are missing some away games:
 
-		2003|Jets|7
 		2005|Giants|7
-		2005|Raiders|7
-		2006|Dolphins|7
-		2007|Saints|7
-		2008|Redskins|7
-		2009|Titans|7
 		
 		select season, visiting_team, count(*) 
 		from Game 
