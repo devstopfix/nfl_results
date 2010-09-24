@@ -102,7 +102,6 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 2008,7,2008-10-19T00:00:00+00:00,Texans,28,21,Lions
 2008,7,2008-10-20T00:00:00+00:00,Patriots,41,7,Broncos
 2008,8,2008-10-26T00:00:00+00:00,49ers,13,34,Seahawks
-2008,8,2008-10-26T00:00:00+00:00,Chargers,32,37,Saints
 2008,8,2008-10-26T00:00:00+00:00,Cowboys,13,9,Buccaneers
 2008,8,2008-10-26T00:00:00+00:00,Dolphins,25,16,Bills
 2008,8,2008-10-26T00:00:00+00:00,Eagles,27,14,Falcons
@@ -112,6 +111,7 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 2008,8,2008-10-26T00:00:00+00:00,Panthers,27,23,Cardinals
 2008,8,2008-10-26T00:00:00+00:00,Patriots,23,16,Rams
 2008,8,2008-10-26T00:00:00+00:00,Ravens,29,10,Raiders
+2008,8,2008-10-26T00:00:00+00:00,Saints,37,32,Chargers
 2008,8,2008-10-26T00:00:00+00:00,Steelers,14,21,Giants
 2008,8,2008-10-26T00:00:00+00:00,Texans,35,6,Bengals
 2008,8,2008-10-27T00:00:00+00:00,Titans,31,21,Colts

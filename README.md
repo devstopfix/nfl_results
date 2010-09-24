@@ -26,26 +26,5 @@ This column will hold the date and time of the kickoff in [Eastern Time](http://
 
 ## Disclaimer
 
-I am merging multiple datasets and working through the combined data set to ensure it is accurate. I have already found and corrected some errors, but I am sure that others remain.  Once I have cross referenced the data with other sources I shall remove this warning.
+I am merging multiple datasets and have already found and corrected some errors, but I am sure that others remain.  Once I have cross referenced the data with other sources I shall remove this warning.
 
-These teams are missing some home games:
-
-		2005|Saints|7
-		2008|Saints|7
-
-		select season, home_team, count(*) 
-		from Game 
-		where season>1987 
-		group by season, home_team 
-		having count(*) <= 7;
-    
-These teams are missing some away games:
-
-		2005|Giants|7
-		
-		select season, visiting_team, count(*) 
-		from Game 
-		where season>1987 
-		group by season, visiting_team 
-		having count(*) <= 7;
-		
