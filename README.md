@@ -2,7 +2,7 @@
 
 The results of each NFL game since 1978.  I am looking to back-date this to 1966 - the year of [SuperBowl 1](http://en.wikipedia.org/wiki/Super_Bowl_I).
 
-The 2010 results file will be updated weekly after the Monday night result is in.
+The 2010 file will be updated weekly after the Monday night result is in.
 
 
 ## Format
