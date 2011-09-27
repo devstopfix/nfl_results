@@ -259,3 +259,10 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 2010,18,2011-01-08T20:00:00-04:00,Colts,16,17,Jets
 2010,18,2011-01-09T13:00:00-04:00,Chiefs,7,30,Ravens
 2010,18,2011-01-09T16:30:00-04:00,Eagles,16,21,Packers
+2010,19,2011-01-15T16:30:00-05:00,Steelers,31,24,Ravens
+2010,19,2011-01-15T20:00:00-05:00,Falcons,21,48,Packers
+2010,19,2011-01-16T13:00:00-05:00,Bears,35,24,Seahawks
+2010,19,2011-01-16T16:30:00-05:00,Patriots,21,28,Jets
+2010,20,2011-01-23T15:00:00-05:00,Bears,14,21,Packers
+2010,20,2011-01-23T18:30:00-05:00,Steelers,24,19,Jets
+2010,21,2011-02-06T18:29:00-05:00,Packers,31,25,Steelers
