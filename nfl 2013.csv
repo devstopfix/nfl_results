@@ -174,3 +174,6 @@ season,week,kickoff,home_team,home_score,visitors_score,visiting_team
 2013,12,2013-11-24T15:25:00-06:00,Giants,21,24,Cowboys
 2013,12,2013-11-24T19:30:00-06:00,Patriots,34,31,Broncos
 2013,12,2013-11-25T19:40:00-06:00,Redskins,6,27,49ers
+2013,13,2013-11-28T11:30:00-06:00,Lions,40,10,Packers
+2013,13,2013-11-28T15:30:00-06:00,Cowboys,31,24,Raiders
+2013,13,2013-11-28T19:30:00-06:00,Ravens,22,20,Steelers
